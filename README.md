@@ -58,7 +58,7 @@ https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 https://vtc130121.cdn.vnns.io/VTC4/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc5hd.jpg",VTC5 HD
 https://vtc130121.cdn.vnns.io/VTC5/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc6" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc6hd.jpg",VTC6 
+#EXTINF:-1 tvg-id="vtc6hd" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc6hd.jpg",VTC6 
 https://vtc130121.cdn.vnns.io/VTC6/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc7hd.png",VTC7 HD 
 https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
@@ -66,3 +66,37 @@ https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
 https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc9hd.jpg",VTC9 
 https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc10hd" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc10hd.jpg",VTC10 HD 
+https://vtc130121.cdn.vnns.io/VTC10_abr/vtc130121/VTC10_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc11" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc11.jpg",VTC11 
+https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc12" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc12.png",VTC12 
+https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc13hd" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc13hd.jpg",VTC13 HD 
+http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" gruop-title="https://static.megavie.live/media/vtc14hd.jpg",VTC14 HD 
+https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc16hd" gruop-title="https://static.megavie.live/media/vtc16.jpg",VTC16 HD 
+https://vtc130121.cdn.vnns.io/VTC16_abr/playlist.m3u8
+#..........THVL........#
+#EXTINF:-1 tvg-id="vinhlong1hd" gruop-title="THVL" tvg-logo="https://static.megavie.live/media/vinhlong1hd.jpg",THVL1 HD 
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" gruop-title="THVL" tvg-logo="https://static.megavie.live/media/vinhlong2hd.jpg",THVL2 HD 
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" gruop-title="THVL" tvg-logo="https://static.megavie.live/media/vinhlong3hd.jpg",THVL3 HD 
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" gruop-title="THVL" tvg-logo="https://static.megavie.live/media/vinhlong4hd.png",THVL4 HD 
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+#..........Kênh thiết yếu...........#
+#EXTINF:-1 tvg-id="antvhd" gruop-title="Kênh thiết yếu" tvg-logo="https://static.megavie.live/media/antv.png",An Ninh TV 
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="quochoihd" gruop-title="Kênh thiết yếu" tvg-logo="https://static.megavie.live/media/quochoi.jpg",Quốc Hội TV 
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vovhd" gruop-title="Kênh thiết yếu" tvg-logo="https://media.truyenhinhdulich.vn/upload/files/image/videobg/livestream_bg.jpg",VOV TV 
+https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="vnews" gruop-title="Kênh thiết yếu" tvg-logo="https://static.megavie.live/media/ttxvn.jpg",Vnews 
+https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" gruop-title="Kênh thiết yếu" tvg-logo="https://static.megavie.live/media/qpvnhd.jpg",Quốc Phòng TV 
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="nhandantv" gruop-title="Kênh thiết yếu" tvg-logo="https://static.megavie.live/media/nhandan.jpg",Nhân Dân TV 
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1442207033.m3u8
