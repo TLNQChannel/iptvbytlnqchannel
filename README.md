@@ -100,3 +100,14 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nhandantv" gruop-title="Kênh thiết yếu" tvg-logo="https://static.megavie.live/media/nhandan.jpg",Nhân Dân TV 
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1442207033.m3u8
+#..........Live Sport.........# 
+#EXTINF:-1 gruop-title="Live Sport" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/BONGDA_HD_M.jpg",Bóng Đá TV 
+http://112.197.12.62/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740
+#EXTINF:-1 gruop-title="Live Sport" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/VTV5_HD_logo.png/revision/latest?cb=20201231094036&path-prefix=vi",VTV5 FPT 
+http://103.137.184.219:9981/stream/channelid/845896616?ticket=8EF093B5689F4D37CD8A12F060C8C3BDC1246CB4&profile=pass
+#EXTINF:-1 gruop-title="Live Sport" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/VTV6_HD_logo_2019.png/revision/latest?cb=20201228134033&path-prefix=vi",VTV6 FPT 
+http://103.137.184.219:9981/stream/channelid/720114317?ticket=857FAECD7CF5AE0DF6D3754FF5D6AD4CC39CDC9D&profile=pass
+#EXTINF:-1 gruop-title="Live Sport" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/THETHAO_HD_M.jpg",Thể Thao TV 
+http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
+#EXTINF:-1 gruop-title="Live Sport" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg",Thể Thao Tin Tức TV 
+http://35.220.129.25/vtvcab18/mpegts
