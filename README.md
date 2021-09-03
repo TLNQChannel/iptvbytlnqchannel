@@ -111,3 +111,7 @@ http://103.137.184.219:9981/stream/channelid/720114317?ticket=857FAECD7CF5AE0DF6
 http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
 #EXTINF:-1 gruop-title="Live Sport" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg",Thể Thao Tin Tức TV 
 http://35.220.129.25/vtvcab18/mpegts
+#EXTINF:-1 gruop-title="Live Sport" tvg-logo="http://imageakm1.tv360.vn/image1/2021/07/01/17/1625135755652/6980876ef6fc_640_360.png",On Sport+ 
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|referer="http://https://sctvonline.vn/detail/vtvcab6-c29bb965"
+#EXTINF:-1 gruop-title="Live Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png", Ngoại Hạng Anh 
+http://103.207.38.11/kpm/mpegts
