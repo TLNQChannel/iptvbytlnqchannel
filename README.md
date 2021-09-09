@@ -166,3 +166,13 @@ http://hatinhtv.vn:82/hls/httv.m3u8
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/17/966497-thp.png",Hải Phòng 
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://thhp.vn/common/v1/images/hptv2.png",Hải Phòng Plus 
+https://live.thhp.vn/hls/thpplus/index.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_%C4%90%C3%A0i_ph%C3%A1t_thanh_truy%E1%BB%81n_h%C3%ACnh_H%E1%BA%ADu_Giang_-_HGTV.png",Hậu Giang 
+https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist_b25000000.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://3ssoft.vn/sites/default/files/hoabinhtv_0.jpg",Hoà Bình 
+https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/HYTV_HD_logo_b%E1%BA%A3n_2_%2812-08-2020_-_nay%29.png/revision/latest/scale-to-width-down/200?cb=20210306021113&path-prefix=vi",Hưng Yên 
+https://live.hungyentv.vn/hytvlive/tv1live.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://bvad.vn/wp-content/uploads/2018/03/Bang-Gia-Truyen-Khanh-Hoa.gif",Khánh Hòa 
+http://210.245.20.94/ktv.m3u8
