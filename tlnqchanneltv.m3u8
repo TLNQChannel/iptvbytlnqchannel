@@ -100,7 +100,7 @@ http://221.133.9.35:1935/live/1.stream_360p/playlist.m3u8
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://bacgiangtv.vn/templates/frontend/bgtv/Assets/img/logo.png",Bắc Giang 
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
-#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://rsstv.gviet.vn/sctv/157/748/1567475513997.png",Bắc Ninh 
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/bacninhhd_vdsl.png",Bắc Ninh 
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/TBK_HD.png/revision/latest?cb=20210722034615&path-prefix=vi",Bắc Kạn 
 https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
