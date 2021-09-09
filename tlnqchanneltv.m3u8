@@ -73,9 +73,9 @@ https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
 https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc13hd.jpg",VTC13 HD 
 http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" gruop-title="https://static.megavie.live/media/vtc14hd.jpg",VTC14 HD 
+#EXTINF:-1 tvg-id="vtc14hd" gruop-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png",VTC14 HD 
 https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc16hd" gruop-title="https://static.megavie.live/media/vtc16.jpg",VTC16 HD 
+#EXTINF:-1 tvg-id="vtc16hd" gruop-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png",VTC16 HD 
 https://vtc130121.cdn.vnns.io/VTC16_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" gruop-title="THVL" tvg-logo="https://static.megavie.live/media/vinhlong1hd.jpg",THVL1 HD 
