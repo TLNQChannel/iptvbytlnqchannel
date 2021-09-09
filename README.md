@@ -193,3 +193,4 @@ https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/08/09/515081-long-an.png",Long An 
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/08/06/740649-ntv_nam_dinh.png",Nam Định 
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
