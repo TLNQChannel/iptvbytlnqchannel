@@ -176,3 +176,20 @@ https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 https://live.hungyentv.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://bvad.vn/wp-content/uploads/2018/03/Bang-Gia-Truyen-Khanh-Hoa.gif",Khánh Hòa 
 http://210.245.20.94/ktv.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/894592-KienGiang.png",Kiên Giang 
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="http://1.bp.blogspot.com/-Yq_PTaB5HkU/UYu9srD-QXI/AAAAAAAAAQw/oaRZ3ZNUg00/s280/kien-giang.jpg",Kiên Giang 1 
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://4movi.net/uploads/tv_image/kon-tum.jpg",Kon Tum 
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/LTV_Lai_ch%C3%A2u_logo.png/revision/latest?cb=20180819215533&path-prefix=vi",Lai Châu 
+https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/163936-Lamdong.png",Lâm Đồng 
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/554116-Lang-Son.png",Lạng Sơn 
+http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg",Lào Cai 
+https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/08/09/515081-long-an.png",Long An 
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/08/06/740649-ntv_nam_dinh.png",Nam Định 
