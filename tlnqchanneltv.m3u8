@@ -253,12 +253,12 @@ https://rlink.vn/tlnqchanneltv5
 https://rlink.vn/tlnqchanneltv6
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=https://sctvonline.vn/detail/sctv1-hd-7f2aafec
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id"sctv2hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-21.jpg",SCTV2 
 https://8387d40698.vws.vegacdn.vn/live/netstars/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-31.jpg",SCTV3 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=https://sctvonline.vn/detail/sctv3-hd-cf3adaca
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv4hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-42.jpg",SCTV4 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740|Referer=https://sctvonline.vn/detail/sctv4-ae779f7e
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5hd" gruop-title="SCTV" tvg-logo="http://app.101vn.com/images/sctv5.png",SCTV5 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8?md5=WgFj80nCKRlhZ4R9zQoZzg&expires=2556118740|Referer=https://sctvonline.vn/detail/sctv5-a3cdb592
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8?md5=WgFj80nCKRlhZ4R9zQoZzg&expires=2556118740|Referer=https://sctvonline.vn/
