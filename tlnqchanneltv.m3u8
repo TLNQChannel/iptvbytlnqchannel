@@ -21,12 +21,6 @@ https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" gruop-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9e/VTV9_HD.png",VTV9 HD 
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" gruop-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/672px-VTV5_logo_2013_final.svg.png",VTV5 SD 
-http://103.137.184.219:9981/stream/channelid/548668340?ticket=EA29427427C15664C0709F191BE1EDFE5FC3C304&profile=pass
-#EXTINF:-1 tvg-id="vtv6hd" gruop-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/672px-VTV6_logo_2013_final.svg.png",VTV6 SD 
-http://103.137.184.219:9981/stream/channelid/792341124?ticket=96AE7D1275F16CC822A7912CF028986EDF9ADFB5&profile=pass
-#EXTINF:-1 tvg-id="vtv9hd" gruop-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/498px-VTV9_logo_2013_final.svg.png",VTV9 SD 
-https://rlink.vn/vtv9sd-tlnqchannel
 
 #EXTINF:-1 tvg-id="htv1" gruop-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/HTV1_screenbug_logo.png/revision/latest?cb=20210709151032&path-prefix=vi",HTV1 
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b1200000.m3u8
