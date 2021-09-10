@@ -270,3 +270,29 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv9/sd1/index.m3u8?md5=YbHnb-7yJPcp86S-bNWnvA&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv10hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/thumb-sctv10_SD1.jpg",SCTV10 
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv10/sd1/index.m3u8?md5=goeMc3OrV5Un43gP6kDnlw&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv11hd" gruop-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/130/logo26072108_sctv11-hd.png",SCTV11 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv11/sd1/index.m3u8?md5=i8wrzqxjGV7BQt9piOK5AA&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv12hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV121.jpg",SCTV12 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv12/sd1/index.m3u8?md5=i0L8AAUKtOAHBzsnl8UhlA&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv13hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV132.jpg",SCTV13 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv13/sd1/index.m3u8?md5=GeobYI8uI8LhmTFo-CYFcA&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv14hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-141.jpg",SCTV14 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv14/sd1/index.m3u8?md5=bs-8dgbSHwp63TDXoCpnkw&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv15hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-152.jpg",SCTV15 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv16hd" gruop-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/110/logo26072108_sctv16-hd.png",SCTV16 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv16/sd1/index.m3u8?md5=xVPLXiUpFg73yuaDyEy-2w&expires=2556118740|Referer=https://sctvonline.vn
+#EXTINF:-1 tvg-id="sctv17hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-1711.jpg",SCTV17 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv17/sd1/index.m3u8?md5=Ta95m8zjauF5U4Ya8NsJvg&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv18hd" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-1812.jpg",SCTV18 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv18/sd1/index.m3u8?md5=LpLRftYMafDSOLR-TKK6Mw&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv19hd" gruop-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/222/logo26072108_sctv19-hd.png",SCTV19 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv19/sd1/index.m3u8?md5=uMR0F1oSOwIfKPtt7-a4xg&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv20hd" gruop-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/233/logo26072108_sctv20-hd.png",SCTV20 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv20/sd1/index.m3u8?md5=lb0MLr7Ra4oiddBQkWvAug&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv21hd" gruop-title="SCTV" tvg-logo="https://1.bp.blogspot.com/-J5E1MQLdtTE/XTaEdcwkXQI/AAAAAAAAE2Y/HcvkPxrF8tAs2GjrpVXfNnypdqbwtE_VgCLcBGAs/s1600/sctv-vn-ki-uc.jpg",SCTV21 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv21/sd1/index.m3u8?md5=AxvpNDs0N57nBjln7px0IA&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv22hd" gruop-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/241/sctv22-hd.png",SCTV22 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctvphimtonghop" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-PhimTH1.jpg",SCTV Phim Tổng Hợp 
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=https://sctvonline.vn/
