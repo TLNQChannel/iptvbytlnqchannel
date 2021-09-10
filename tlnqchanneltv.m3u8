@@ -301,7 +301,7 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=
 #EXTINF:-1 tvg-id="vtvcab1hd" gruop-title="VTVCAB" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-vtvcab1-vie-giai-tri.png",VTVCab1 
 https://rlink.vn/vcab1-tlnqchannel
 #EXTINF:-1 tvg-id"vtvcab2hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/ON_Phim_Vi%E1%BB%87t_logo_%28VTVCab_2%29.png/revision/latest?cb=20210908105146&path-prefix=vi",VTVCab2 
-http://112.197.12=.62/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740
+http://112.197.12.62/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab3hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/ON_Sports_TV_logo_%28Th%E1%BB%83_Thao_TV%29.png/revision/latest?cb=20210908104950&path-prefix=vi",VTVCab3 
 http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab4hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4f/VTVcab_4-0.png/revision/latest?cb=20210909035859&path-prefix=vi",VTVCab4 
@@ -330,3 +330,34 @@ http://112.197.12.62/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expir
 http://112.197.12.62/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab20hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/VFAMILY_M.jpg",VTVCab20 
 http://112.197.12.62/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740
+
+#EXTINF:-1 tvg-id="animaxhd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax 
+https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cartoonnetworkhd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network 
+https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="boomeranghd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png",Boomerang 
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png",Discovery 
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="disoveryasiahd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png",Discovery Asia 
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="bbcearthhd" gruop-title="Quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkoZekcdK-8qI9U5x_zoFrZP2a06uAKEMPUw&usqp=CAU",BBC Earth 
+https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="afnhd" gruop-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png",AFN 
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="axnhd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN 
+https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dwhd" gruop-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/640px-Deutsche_Welle_symbol_2012.svg.png",DW English 
+https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="kbsworldhd" gruop-title="Quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8agxvqDva7wi-ZzHorRRHJ1feIB8T9aWiwg&usqp=CAU",KBS World 
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="nhkworldhd" gruop-title="Quốc tế" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/1-1.png",NHK World 
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/vi/playlist.m3u8
+#EXTINF:-1 tvg-id="tv5monde" gruop-title="Quốc tế" tvg-logo="https://static-stage.tv24.vn/channel/162/logo26072108_TV5-Monde.png",TV5 Monde Asie 
+https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-entertainment_154850587839.jpg",Rock Entertainment 
+https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-extreme_154850781484.jpg",Rock Extreme
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="fashiontvhd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png",Fashion TV 
+https://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
