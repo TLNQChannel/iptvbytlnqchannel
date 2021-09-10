@@ -312,3 +312,21 @@ http://112.197.12.62/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expire
 http://112.197.12.62/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab7hd" gruop-title="VTVCAB" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832391120.png",VTVCab7 
 http://112.197.12.62/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740
+#EXTINF:-1 tvg-id="vtvcab8hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/BIBI_M2.jpg",VTVCab8 
+http://112.197.12.62/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740
+#EXTINF:-1 tvg-id="vtvcab9hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/INFO_TV_M.jpg",VTVCab9 
+http://112.197.12.62/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740
+#EXTINF:-1 tvg-id="vtvcab10hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5f/On_Cine_VTVCab_10.png/revision/latest?cb=20210907041336&path-prefix=vi",VTVCab10 
+http://112.197.12.62/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740
+#EXTINF:-1 tvg-id="vtvcab12hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/STYLE_TV_HD_M.jpg",VTVCab12 
+http://112.197.12.62/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740
+#EXTINF:-1 tvg-id="vtvcab15hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab15_800x4501.jpg",VTVCab15 
+http://112.197.12.62/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740
+#EXTINF:-1 tvg-id="vtvcab16hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/ON_Football_logo_%28B%C3%B3ng_%C4%90%C3%A1_TV%29.png/revision/latest?cb=20210908105120&path-prefix=vi",VTVCab16 
+http://112.197.12.62/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740
+#EXTINF:-1 tvg-id="vtvcab17hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/YEAH1_TV_M.jpg",VTVCab17 
+http://112.197.12.62/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740
+#EXTINF:-1 tvg-id="vtvcab19hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/9BBC95BD-2BA6-4B98-B625-84587477FCC3j1.jpg",VTVCab19 
+http://112.197.12.62/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740
+#EXTINF:-1 tvg-id="vtvcab20hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/VFAMILY_M.jpg",VTVCab20 
+http://112.197.12.62/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740
