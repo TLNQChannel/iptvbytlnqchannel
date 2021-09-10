@@ -297,6 +297,8 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv21/sd1/index.m3u8?md5=AxvpNDs0N
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvphimtonghop" gruop-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-PhimTH1.jpg",SCTV Phim Tổng Hợp 
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 gruop-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/51/BTV5_logo_2007-2014.png/revision/latest?cb=20210131013111&path-prefix=vi",BTV5 
+https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab1hd" gruop-title="VTVCAB" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-vtvcab1-vie-giai-tri.png",VTVCab1 
 https://rlink.vn/vcab1-tlnqchannel
