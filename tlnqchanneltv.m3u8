@@ -364,4 +364,4 @@ https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-id="fashiontvhd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png",Fashion TV 
 https://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1, Test 
-var auto_start_download_all=((1<https://isptqrteg4liv.vcdn.cloud/5cf7643b1d62773e00bbf92b/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8_urls.length) ? '' : '')
+var auto_start_download_all=((1<https://isptqrteg4liv.vcdn.cloud/5cf7643b1d62773e00bbf92b/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8_urls.length)?'':'')
