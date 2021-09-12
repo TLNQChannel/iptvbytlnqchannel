@@ -276,23 +276,17 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620210721142624",Yên Bái 
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV1 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://rlink.vn/tlnqchanneltv
+#EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV1
+http://cunbabyshop.xyz/vtvcab18/mpegts
 #EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV2 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://rlink.vn/tlnqchanneltv2
-#EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV3 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV3
 https://rlink.vn/tlnqchanneltv3
 #EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV4 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://rlink.vn/tlnqchanneltv4
 #EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV5 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://rlink.vn/tlnqchanneltv5
 #EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV6 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://rlink.vn/tlnqchanneltv6
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
