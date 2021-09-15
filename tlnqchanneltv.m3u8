@@ -287,7 +287,7 @@ https://rlink.vn/tlnqchanneltv4
 #EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV5 
 https://rlink.vn/tlnqchanneltv5
 #EXTINF:-1 gruop-title="TLNQ Channel TV",TLNQ Channel TV6 
-https://rlink.vn/tlnqchanneltv6
+https://raw.githubusercontent.com/TLNQChannel/TLNQChannel/main/vtvcab16live.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
