@@ -465,4 +465,15 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemax" gruop-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="boxmovies" gruop-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068845352.png",Box Movies 1 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="planetearth" gruop-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png",Planet Earth 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="woman" gruop-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068813680.png",Woman 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="drfit" gruop-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068777998.png",DR Fit 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
