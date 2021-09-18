@@ -278,6 +278,8 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 gruop-title="TLNQ Channel TV",Ngoại Hạng Anh
 http://103.207.38.11/kpm/mpegts
+#EXTINF:-1 gruop-title="TLNQ Channel TV", Ngoại Hạng Anh 2 
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",Sự Kiện 1
 http://cunbabyshop.xyz/vtvcab16/mpegts
 #EXTINF:-1 gruop-title="TLNQ Channel TV",Sự Kiện 2
@@ -286,11 +288,11 @@ http://cunbabyshop.xyz/vtvcab3/mpegts
 http://cunbabyshop.xyz/vtvcab6/mpegts
 #EXTINF:-1 gruop-title="TLNQ Channel TV",Sự Kiện 4
 http://cunbabyshop.xyz/vtvcab18/mpegts
-#EXTINF:-1 gruop-title="TLNQ Channel TV",Serie 1
+#EXTINF:-1 gruop-title="TLNQ Channel TV",Seria 1
 http://cunbabyshop.xyz/htv7hd/mpegts
-#EXTINF:-1 gruop-title="TLNQ Channel TV",Serie 2
+#EXTINF:-1 gruop-title="TLNQ Channel TV",Seria 2
 http://cunbabyshop.xyz/htv9hd/mpegts
-#EXTINF:-1 gruop-title="TLNQ Channel TV",Serie 3
+#EXTINF:-1 gruop-title="TLNQ Channel TV",Seria 3
 http://cunbabyshop.xyz/htvtt/mpegts
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
