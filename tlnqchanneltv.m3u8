@@ -294,10 +294,8 @@ http://cunbabyshop.xyz/htv7hd/mpegts
 http://cunbabyshop.xyz/htv9hd/mpegts
 #EXTINF:-1 gruop-title="TLNQ Channel TV",Seria 3
 http://cunbabyshop.xyz/htvtt/mpegts
-#EXTINF:-1 gruop-title="TLNQ Channel TV", World Cup Fussal 1
+#EXTINF:-1 gruop-title="TLNQ Channel TV", Việt Nam vs Nga 
 http://192.168.1.41:9999/udp/225.1.4.6:30120
-#EXTINF:-1 gruop-title="TLNQ Channel TV", World Cup Fussal 2
-http://192.168.1.41:9999/udp/225.1.1.131:30120
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
