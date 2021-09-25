@@ -394,7 +394,7 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5Y
 #EXTINF:-1 tvg-id="vtvcab9hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/INFO_TV_M.jpg",VTVCab9 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab10hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5f/On_Cine_VTVCab_10.png/revision/latest?cb=20210907041336&path-prefix=vi",VTVCab10 
+#EXTINF:-1 tvg-id="vtvcab10hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Kenh10_480x2701.jpg",VTVCab10 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab12hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/STYLE_TV_HD_M.jpg",VTVCab12 
