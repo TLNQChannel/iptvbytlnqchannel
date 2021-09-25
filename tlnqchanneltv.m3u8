@@ -157,7 +157,7 @@ http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 http://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Logo_BTV_HD_B%C3%ACnh_Thu%E1%BA%ADn_c%C3%B3_website.png/revision/latest?cb=20210424054415&path-prefix=vi",Bình Thuận 
 https://livecdn.fptplay.net/sdc/binhthuan_2000.stream/chunklist.m3u8
-#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/GzXVasmPx9w/maxresdefault.jpg",Cà Mau 
+#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/CTV_Ca_Mau.png/revision/latest?cb=20201025094120&path-prefix=vi",Cà Mau 
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/348878-CanTho.png",Cần Thơ 
 https://mekongpassion.com/live/tv/chunklist.m3u8
