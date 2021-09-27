@@ -296,6 +296,21 @@ http://cunbabyshop.xyz/htv9hd/mpegts
 http://cunbabyshop.xyz/htvtt/mpegts
 #EXTINF:-1 gruop-title="TLNQ Channel TV", NASA TV1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 gruop-title="TLNQ Channel TV", TR:BEIN SPORTS HABER HD
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/12
+#EXTINF:-1 gruop-title="TLNQ Channel TV", TR:BEIN SPORTS S1
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1107
+#EXTINF:-1 gruop-title="TLNQ Channel TV", TR:BEIN SPORTS S2
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1108
+#EXTINF:-1 gruop-title="TLNQ Channel TV", TR:BEIN SPORTS S3
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1109
+#EXTINF:-1 gruop-title="TLNQ Channel TV", TR:BEIN SPORTS S4
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1110
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
