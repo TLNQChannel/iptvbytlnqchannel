@@ -433,6 +433,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=https://sc
 #EXTINF:-1 tvg-id="vtvcab20hd" gruop-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/VFAMILY_M.jpg",VTVCab20 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab23hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/On_Golf_Premium_VTVCab_23.png/revision/latest/scale-to-width-down/1000?cb=20210907045033&path-prefix=vi",VTVCab23 
+http://103.195.239.138/ongolf/mpegts
 
 #EXTINF:-1 tvg-id="animaxhd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
