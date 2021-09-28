@@ -314,22 +314,31 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1110
 #EXTINF:-1 gruop-title="TLNQ Channel TV",VTV6 (VTV Giải Trí)
 https://l175kddht.vtvgiaitri.vn/vtv06/vtv06@720p.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 1 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 2
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 3
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 4
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 5
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 6
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 7
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA Youth 1 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/youth01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA Youth 2
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/youth02_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
