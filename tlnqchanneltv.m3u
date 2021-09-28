@@ -313,6 +313,8 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1109
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1110
 #EXTINF:-1 gruop-title="TLNQ Channel TV",VTV6 (VTV Giải Trí)
 https://l175kddht.vtvgiaitri.vn/vtv06/vtv06@720p.m3u8
+#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA Youth 2
+https://vips-livecdn.fptplay.net/hdevent/youth02_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
