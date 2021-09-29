@@ -19,7 +19,7 @@ https://l175kddht.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" gruop-title=" VTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV5-TayNamBo.png",VTV5 Tây Nam Bộ 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-#EXTINF:-1 tvg-id="vtv5tn" tvg-name="VTV5 Tây Nguyên" gruop-title=" VTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/VTV5_T%C3%A2y_Nguy%C3%AAn_HD_logo.png/revision/latest?cb=20201204145738&path-prefix=vi",VTV5 Tây Nguyên 
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 Tây Nguyên" gruop-title=" VTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/VTV5_T%C3%A2y_Nguy%C3%AAn_HD_logo.png/revision/latest?cb=20201204145738&path-prefix=vi",VTV5 Tây Nguyên 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" gruop-title=" VTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/VTV6_HD_logo_2019.png/revision/latest?cb=20201228134033&path-prefix=vi" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD 
