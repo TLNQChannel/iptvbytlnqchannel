@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/epgvn01"
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #Liên hệ chủ list IPTV tại đây:facebook.com/tlnq.channel.9999
 #EXTM3U Bản quyền list IPTV này thuộc về TLNQ Channel TV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" gruop-title=" VTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
