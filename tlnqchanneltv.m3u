@@ -338,6 +338,8 @@ https://vips-livecdn.fptplay.net/hdevent/youth01_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA Youth 2
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hdevent/youth02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0, Test 
+https://hls.mediacdn.vn/vtv/2018/6/28/2706tran-20h-v2-15301383085471129694780-c45cb.mp4/mobile.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
