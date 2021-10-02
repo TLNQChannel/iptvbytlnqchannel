@@ -344,8 +344,8 @@ http://tramtien.duckdns.org:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 http://127.0.0.1:6878/ace/getstream?id=be67595c5abfeecff35deaa7fbfd325df47afd0f
 #EXTINF:-1 gruop-title="TLNQ Channel TV",Sky Sport F1 
-http://127.0.0.1:6878/ace/m/18e7e00b60205b66e2e6229911c2a3e68d06c9bc/40d55fed2f1f87d9bdb7fd58e369a5b3.m3u8
-#EXTINF:0, Test 
+https://916cee5ac.vws.vegacdn.vn/40a2357eec1241a5bb7913955b32529267bf974e/ca8eca7cf61e920c0d799987c22b5c56/1633216467/live/_definst_/stream_1_c0769@kenh1/chunklist.m3u8|Referer=https://90phut.net/
+#EXTINF:0, Test
 https://hls.mediacdn.vn/vtv/2018/6/28/2706tran-20h-v2-15301383085471129694780-c45cb.mp4/mobile.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" gruop-title="SCTV" tvg-logo="https://i.ytimg.com/vi/oI_9cbYTuqA/hqdefault.jpg",SCTV1 
