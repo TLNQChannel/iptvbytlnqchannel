@@ -492,7 +492,7 @@ https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png",Da Vinci 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
-
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png",Discovery 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8
