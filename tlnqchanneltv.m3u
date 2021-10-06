@@ -319,8 +319,16 @@ acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
 acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
 #EXTINF:-1 gruop-title="TLNQ Channel TV",Canal+ Sport [Xem trên acestream]
 acestream://b258f7b7fc2aed0e3e66fb4836113208902b5348
-#EXTINF:-1 gruop-title="TLNQ Channel TV",EURO Sport 4K 
+#EXTINF:-1 gruop-title="TLNQ Channel TV",EURO Sport 4K [Xem trên acestream]
 acestream://9d9d10fad753592add6ad2313c216e6fc3729cd7
+#EXTINF:-1 gruop-title="TLNQ Channel TV",Elevent Sport 1 [Xem trên acestream]
+acestream://ca89f7973ca3084f9c33bf7105daca5b46575ed5
+#EXTINF:-1 gruop-title="TLNQ Channel TV",Elevent Sport 2 [Xem trên acestream]
+acestream://572880fd38805efc2d5c9fa72a72669a00583808
+#EXTINF:-1 gruop-title="TLNQ Channel TV",Elevent Sport 3 [Xem trên acestream]
+acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
+#EXTINF:-1 gruop-title="TLNQ Channel TV",Elevent Sport 4 [Xem trên acestream]
+acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
 #EXTINF:0, Test
 https://hls.mediacdn.vn/vtv/2018/6/28/2706tran-20h-v2-15301383085471129694780-c45cb.mp4/mobile.m3u8
 #EXTINF:0,Test 2
