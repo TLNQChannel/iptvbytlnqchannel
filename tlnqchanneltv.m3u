@@ -315,6 +315,8 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1110
 acestream://4cf945e9dbb28aaa3b1bc73145f54d628a74b51d
 #EXTINF:-1 gruop-title="TLNQ Channel TV",SKY Sport 1 [Xem trên acestream]
 acestream://502f522719c6e73280b0c6a8ad4029058816ae9f
+#EXTINF-1 gruop-title="TLNQ Channel TV",Sky Sport Australia [Xem trên acestream]
+acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
 #EXTINF:0, Test
 https://hls.mediacdn.vn/vtv/2018/6/28/2706tran-20h-v2-15301383085471129694780-c45cb.mp4/mobile.m3u8
 
