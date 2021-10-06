@@ -259,8 +259,6 @@ http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://cdnwebonplay.gviet.vn/public/logos/channel/kenh_thainguyen_big.png",Thái Nguyên 1 
 http://103.90.220.236/tntvlive/tv1live.m3u8
-#EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://rlink.vn/thainguyentv2.png",Thái Nguyên 2 
-https://rlink.vn/tn2-tlnqchannel
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569936638.png",Thanh Hóa 
 https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/TRT_HUE.png/revision/latest?cb=20210807113443&path-prefix=vi",Thừa Thiên Huế 
