@@ -274,6 +274,9 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 gruop-title="Địa phương" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620210721142624",Yên Bái 
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
+#EXTINF:-1 gruop-title="TLNQ Channel TV",Phân tích trận Vietnam vs Trung Quốc (21h,6/10/2021)
+#EXTVLCOPT:http-user-agent="TLNQ Channel TV" 
+https://livecdn.fptplay.net/schedule/sukien02_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV",Ngoại Hạng Anh
 http://103.207.38.11/kpm/mpegts
 #EXTINF:-1 gruop-title="TLNQ Channel TV", Ngoại Hạng Anh 2 
