@@ -311,40 +311,9 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1109
 #EXTINF:-1 gruop-title="TLNQ Channel TV", TR:BEIN SPORTS S4
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1110
-#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 1 
+#EXTINF:-1 gruop-title="TLNQ Channel TV",BEIN Sport Extra [Xem trên acestream]
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 2
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 3
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 4
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 5
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 6
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA 7
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA Youth 1 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vips-livecdn.fptplay.net/hdevent/youth01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",FPT UEFA Youth 2
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vips-livecdn.fptplay.net/hdevent/youth02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",Eleven Sports 
-http://tramtien.duckdns.org:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 gruop-title="TLNQ Channel TV",BEIN XTRA HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
-http://127.0.0.1:6878/ace/getstream?id=be67595c5abfeecff35deaa7fbfd325df47afd0f
-#EXTINF:-1 gruop-title="TLNQ Channel TV",Test 
-https://l175kddht.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8?tlnqchanneltv
+acestream://4cf945e9dbb28aaa3b1bc73145f54d628a74b51d
 #EXTINF:0, Test
 https://hls.mediacdn.vn/vtv/2018/6/28/2706tran-20h-v2-15301383085471129694780-c45cb.mp4/mobile.m3u8
 
