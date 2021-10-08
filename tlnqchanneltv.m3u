@@ -514,6 +514,9 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u
 #EXTINF:-1 tvg-id="disoveryasiahd" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png",Discovery Asia 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dmaxhd" gruop-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1 tvg-id="tlc" gruop-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg",TLC 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b2500000.m3u8
@@ -587,8 +590,6 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="boxmovies" gruop-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068845352.png",Box Movies 1 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="boxhits" gruop-title="Quốc tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg",Box Hits 
-http://103.195.239.138:80/boxhits/mpegts
 #EXTINF:-1 tvg-id="planetearth" gruop-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png",Planet Earth 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=https://sctvonline.vn/
@@ -599,6 +600,8 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWA
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:-1 gruop-title="Quốc tế" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV1
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 gruop-title="Quốc tế" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png",Redbull TV 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
