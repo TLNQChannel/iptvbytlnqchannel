@@ -550,7 +550,7 @@ https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="kbsworldhd" gruop-title="Quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8agxvqDva7wi-ZzHorRRHJ1feIB8T9aWiwg&usqp=CAU",KBS World 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="nhkworldhd" gruop-title="Quốc tế" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/1-1.png",NHK World
+#EXTINF:-1 tvg-id="nhkworldhd" gruop-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/640px-NHK_World-Japan_TV.svg.png",NHK World
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/vi/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde" gruop-title="Quốc tế" tvg-logo="https://static-stage.tv24.vn/channel/162/logo26072108_TV5-Monde.png",TV5 Monde Asie 
