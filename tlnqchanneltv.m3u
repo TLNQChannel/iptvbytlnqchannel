@@ -311,8 +311,6 @@ http://cunbabyshop.xyz/htv7hd/mpegts
 http://cunbabyshop.xyz/htv9hd/mpegts
 #EXTINF:-1 gruop-title="TLNQ Channel TV",Seria 3
 http://cunbabyshop.xyz/htvtt/mpegts
-#EXTINF:-1 gruop-title="TLNQ Channel TV", NASA TV1
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 gruop-title="TLNQ Channel TV", TR:BEIN SPORTS HABER HD
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/12
@@ -600,3 +598,7 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWA
 #EXTINF:-1 tvg-id="drfit" gruop-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068777998.png",DR Fit 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:-1 gruop-title="Quốc tế" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV1
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 gruop-title="Quốc tế" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png",Redbull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
