@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/tlnqchannelepg"
+
 #EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/672px-VTV2_logo_2013_final.svg.png" gruop-title="VTV",VTV2 HD 
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/697px-VTV7_logo_2016_final.svg.png" gruop-title="VTV",VTV7 HD 
@@ -39,3 +40,5 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u
 https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:0 tvg-id="bbccbeebieshd" tvg-name="BBC Cbeebies HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",BBC Cbeebies HD
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="happykidshd" tvg-name="Happy Kids HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068739769.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Happy Kids HD 
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=https://sctvonline.vn/
