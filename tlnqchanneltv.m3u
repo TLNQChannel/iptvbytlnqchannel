@@ -92,7 +92,7 @@ https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
 https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc10hd.jpg",VTC10 HD 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://vtc130121.cdn.vnns.io/VTC10_abr/vtc130121/VTC10_1080p/playlist.m3u8
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc11" gruop-title="VTC" tvg-logo="https://static.megavie.live/media/vtc11.jpg",VTC11 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
