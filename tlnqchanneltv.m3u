@@ -366,6 +366,8 @@ acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
 acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
 #EXTINF:0,TLNQ Channel TV 
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0,VTV1 Test 
+https://kpluslive.akamaized.net/live/prod_vtv1_hd_fps/prod_vtv1_hd_fps.isml/prod_vtv1_hd_fps.mpd
 
 #EXTINF:-1 tvg-id="hanoicab2" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" gruop-title="IMC Group",YouTV 
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
