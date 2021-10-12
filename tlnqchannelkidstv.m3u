@@ -50,3 +50,22 @@ https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-name="Canal+ Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Canal+ Kids 
 http://stop.next-code.xyz:2052/Nador/66263/20223
+
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 1
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210524/hhtn_bq_nuvi_2021_ep01/64e61a43e112dcf87aa6494e837a69f4_1080p.mp4/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 2
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210614/hhtn_bq_nuvi_2021_ep02_v2/9b810bda1e90c30a2363d09cdcf20ac1_1080p.mp4/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 3 
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210614/hhtn_bq_nuvi_2021_ep03/cd644687d2f3083b6a3cfce1b1db74f4_1080p.mp4/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 4 
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210720/hhtn_bq_nuvi_2021_ep04/1d3d5b1c8570d2d89dcfc01b0b26e6da_1080p.mp4/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 5
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210720/hhtn_bq_nuvi_2021_ep05/1a06261243e4ed606937378b1d13d5a7_1080p.mp4/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 6
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211006/hhtn_bq_nuvi_2021_ep05_p1/53bde9637795f1bc6e03c2efcf313ca0_1080p.mp4/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 7 
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210803/hhtn_bq_nuvi_2021_epbibong/2cd5d1876fbdac43075d588da070dc07_1080p.mp4/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 8 
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210524/hhtn_bq_nuvi_2021_ep02/b6740c9dd3831bf8d9904fe22b15efc7_1080p.mp4/chunklist_b4628000.m3u8 
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 9 
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210810/mntuploadingesthhtn_bq_nuvi_2021_ngoaitruyen2/caa39665576404c8807de332e907c9c2_1080p.mp4/chunklist_b4628000.m3u8
