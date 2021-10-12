@@ -1,54 +1,52 @@
 #EXTM3U url-tvg="http://gg.gg/tlnqchannelepg"
 
-#EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/672px-VTV2_logo_2013_final.svg.png" gruop-title="VTV",VTV2 HD 
+#EXTINF:0 tvg-id="vtv2hd" tvg-name="VTV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/672px-VTV2_logo_2013_final.svg.png" gruop-title="VTV",VTV2 HD - Dành cho trẻ từ 6 tuổi xem cùng với phụ huynh 
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/697px-VTV7_logo_2016_final.svg.png" gruop-title="VTV",VTV7 HD 
+#EXTINF:0 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/697px-VTV7_logo_2016_final.svg.png" gruop-title="VTV",VTV7 HD - Dành cho trẻ từ 6 tuổi 
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f2/HTV3_logo_2019.webp" gruop-title="HTV",HTV3 
+#EXTINF:0 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f2/HTV3_logo_2019.webp" gruop-title="HTV",HTV3 - Dành cho trẻ từ 6 tuổi 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 
-#EXTINF:0 tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png" gruop-title="VTC",VTC8 
-https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
-#EXTINF:0 tvg-id="vtc11" tvg-name="VTC11" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_162989862338.jpg" gruop-title="VTC",VTC11 
+#EXTINF:0 tvg-id="vtc11" tvg-name="VTC11" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_162989862338.jpg" gruop-title="VTC",VTC11 - Dành cho trẻ từ 6 tuổi
 https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
 
-#EXTINF:0 tvg-id="vtvcab8hd" tvg-name="VTVCab8 HD" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/BIBI_M2.jpg" gruop-title="VTVCab",Bibi TV 
+#EXTINF:0 tvg-id="vtvcab8hd" tvg-name="VTVCab8 HD" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/BIBI_M2.jpg" gruop-title="VTVCab",Bibi TV - Dành cho trẻ từ 3 tuổi
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8|Referer=https://sctvonline.vn/
 
-#EXTINF:0 tvg-id="sctv3hd" tvg-name="SCTV3 HD" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-31.jpg" gruop-title="SCTV",See TV 
+#EXTINF:0 tvg-id="sctv3hd" tvg-name="SCTV3 HD" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-31.jpg" gruop-title="SCTV",See TV - Dành cho trẻ 6 tuổi
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=https://sctvonline.vn/
 
-#EXTINF:0 tvg-id="hanoicab2" tvg-name="Hanoicab 2" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" gruop-title="Hanoicab",YouTV 
+#EXTINF:0 tvg-id="hanoicab2" tvg-name="Hanoicab 2" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" gruop-title="Hanoicab",YouTV - Dành cho trẻ từ 6 tuổi xem cùng với phụ huynh
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="animaxhd" tvg-name="Animax HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Animax 
+#EXTINF:0 tvg-id="animaxhd" tvg-name="Animax HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Animax - Dành cho trẻ từ 13 tuổi
 https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Cartoon Network
+#EXTINF:0 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Cartoon Network - Dành cho trẻ từ 6 tuổi
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="boomeranghd" tvg-name="Boomerang HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Boomerang HD 
+#EXTINF:0 tvg-id="boomeranghd" tvg-name="Boomerang HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Boomerang HD - Dành cho trẻ từ 6 tuổi
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="babyfirsthd" tvg-name="Baby First HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Baby First HD 
+#EXTINF:0 tvg-id="babyfirsthd" tvg-name="Baby First HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Baby First HD - Dành cho trẻ từ 3 tuổi
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="davincihd" tvg-name="Da Vinci HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Da Vinci HD
+#EXTINF:0 tvg-id="davincihd" tvg-name="Da Vinci HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Da Vinci HD - Dành cho trẻ từ 6 tuổi xem cùng với phụ huynh
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="animalplanethd" tvg-name="Animal Planet HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" gruop-title="Kênh Quốc Tế Thiếu Nhi",Animal Planet 
+#EXTINF:0 tvg-id="animalplanethd" tvg-name="Animal Planet HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" gruop-title="Kênh Quốc Tế Thiếu Nhi",Animal Planet - Dành cho trẻ từ 6 tuổi xem cùng với phụ huynh
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="discoveryhd" tvg-name="Discovery HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Discovery HD 
+#EXTINF:0 tvg-id="discoveryhd" tvg-name="Discovery HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Discovery HD - Dành cho trẻ từ 6 tuổi xem cùng với phụ huynh
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="planetearthhd" tvg-name="Planet Earth HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Planet Earth HD
+#EXTINF:0 tvg-id="planetearthhd" tvg-name="Planet Earth HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Planet Earth HD - Dành cho trẻ từ 6 tuổi xem cùng với phụ huynh
 https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=https://sctvonline.vn/
-#EXTINF:0 tvg-id="bbccbeebieshd" tvg-name="BBC Cbeebies HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",BBC Cbeebies HD
+#EXTINF:0 tvg-id="bbccbeebieshd" tvg-name="BBC Cbeebies HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",BBC Cbeebies HD - Dành cho trẻ từ 6 tuổi
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="happykidshd" tvg-name="Happy Kids HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068739769.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Happy Kids HD 
+#EXTINF:0 tvg-id="happykidshd" tvg-name="Happy Kids HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068739769.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Happy Kids HD - Dành cho trẻ từ 6 tuổi
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:0 tvg-id="nationalgeographichd" tvg-name="National Geographic HD" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" gruop-title="Kênh Quốc Tế Thiếu Nhi", National Geographic HD
+#EXTINF:0 tvg-id="nationalgeographichd" tvg-name="National Geographic HD" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" gruop-title="Kênh Quốc Tế Thiếu Nhi", National Geographic HD - Dành cho trẻ từ 6 tuổi xem cùng với phụ huynh
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dreamworkhd" tvg-name="Dreamwork HD" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png",DreamWork HD 
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="babytv" tvg-name="Baby TV HD" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/3/23/baby-tv-crop-15217904812391954901115.jpg" gruop-title="Kênh Quốc Tế Thiếu Nhi",Baby TV 
+#EXTINF:0 tvg-id="babytv" tvg-name="Baby TV HD" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/3/23/baby-tv-crop-15217904812391954901115.jpg" gruop-title="Kênh Quốc Tế Thiếu Nhi",Baby TV - Dành cho trẻ từ 3 tuổi
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-name="Canal+ Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Canal+ Kids 
+#EXTINF:0 tvg-name="Canal+ Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" gruop-title="Kênh Quốc Tế Thiếu Nhi",Canal+ Kids - Dành cho trẻ từ 6 tuổi
 http://stop.next-code.xyz:2052/Nador/66263/20223
 
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" gruop-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 1
