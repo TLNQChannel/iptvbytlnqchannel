@@ -302,8 +302,6 @@ udp://@225.1.1.203:30120
 udp://@225.1.1.204:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 8Mbps)
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",[V] HD (HD 8Mbps)
-udp://@225.1.1.188:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
 udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
@@ -314,10 +312,6 @@ udp://@225.1.1.197:30120
 udp://@225.1.2.223:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
 udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Disney Channel (HD 8Mbps)
-udp://@225.1.2.158:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Disney Junior (HD 8Mbps)
-udp://@225.1.1.233:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Dreamworks (HD 8Mbps)
 udp://@225.1.1.136:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",DW (HD 8Mbps)
@@ -328,22 +322,6 @@ udp://@225.1.2.227:30120
 udp://@225.1.2.232:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV 4K
 udp://@225.1.2.234:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FOX HD (HD 8Mbps)
-udp://@225.1.1.51:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Fox Family Movies (HD 8Mbps)
-udp://@225.1.1.140:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FOX Life (HD 8Mbps)
-udp://@225.1.2.237:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FOX MOVIES (HD 8Mbps)
-udp://@225.1.2.239:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FOX SPORTS (HD 8Mbps)
-udp://@225.1.2.229:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FOX SPORTS 2 (HD 8Mbps)
-udp://@225.1.1.141:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FOX SPORTS 3 (HD 8Mbps)
-udp://@225.1.2.242:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FX (HD 8Mbps)
-udp://@225.1.1.213:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
 udp://@225.1.2.233:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
@@ -362,8 +340,6 @@ udp://@225.1.2.215:30120
 udp://@225.1.1.236:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",[V] HD (HD 4Mbps)
-udp://@225.1.4.30:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
 udp://@225.1.4.38:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
@@ -570,10 +546,6 @@ udp://@225.1.1.253:30120
 udp://@225.1.2.1:30120
 #EXTINF:-1 group-title="TEST",HTV7 HD
 udp://@225.1.2.10:30120
-#EXTINF:-1 group-title="TEST",Fox Family Movies HD
-udp://@225.1.2.11:30120
-#EXTINF:-1 group-title="TEST",FOX HD
-udp://@225.1.2.12:30120
 #EXTINF:-1 group-title="TEST",KBS World
 udp://@225.1.2.14:30120
 #EXTINF:-1 group-title="TEST",Blue Ant Extreme HD
@@ -596,8 +568,6 @@ udp://@225.1.2.45:30120
 udp://@225.1.2.48:30120
 #EXTINF:-1 group-title="TEST",HBO HD
 udp://@225.1.2.54:30120
-#EXTINF:-1 group-title="TEST",FX HD
-udp://@225.1.2.55:30120
 #EXTINF:-1 group-title="TEST",QPVN HD
 udp://@225.1.2.61:30120
 #EXTINF:-1 group-title="TEST",ANTV HD
@@ -628,10 +598,6 @@ udp://@225.1.2.111:30120
 udp://@225.1.2.112:30120
 #EXTINF:-1 group-title="TEST",VTV9 HD
 udp://@225.1.2.113:30120
-#EXTINF:-1 group-title="TEST",Fox Life HD
-udp://@225.1.2.114:30120
-#EXTINF:-1 group-title="TEST",Fox Movies HD
-udp://@225.1.2.115:30120
 #EXTINF:-1 group-title="TEST",BabyTV HD
 udp://@225.1.2.116:30120
 #EXTINF:-1 group-title="TEST",Fashion TV HD
@@ -676,12 +642,6 @@ udp://@225.1.2.135:30120
 udp://@225.1.2.137:30120
 #EXTINF:-1 group-title="TEST",HTVC Ca Nhạc
 udp://@225.1.2.138:30120
-#EXTINF:-1 group-title="TEST",Fox Sports HD
-udp://@225.1.2.139:30120
-#EXTINF:-1 group-title="TEST",Fox Sports 2 HD
-udp://@225.1.2.140:30120
-#EXTINF:-1 group-title="TEST",Fox Sports 3 HD
-udp://@225.1.2.141:30120
 #EXTINF:-1 group-title="TEST",HTV1
 udp://@225.1.2.142:30120
 #EXTINF:-1 group-title="TEST",CINEMAX HD
