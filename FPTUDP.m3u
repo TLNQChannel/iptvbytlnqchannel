@@ -123,9 +123,9 @@ udp://@225.1.4.148:30120
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 4Mbps)
 udp://@225.1.4.217:30120
 #-------------------Other-------------------#
-#EXTINF:-1 group-title="Other",HanoiCab2 YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="Other",HanoiCab2 YouTV
 udp://@225.1.1.207:30120
-#EXTINF:-1 group-title="Other" tvg-logo="https://imgur.com/qzEFit1",MTV
+#EXTINF:-1 tvg-id="mtvhd" group-title="Other" tvg-logo="https://imgur.com/qzEFit1",MTV
 udp://@225.1.1.245:30120
 #-------------------Địa phương HD-------------------#
 #EXTINF:-1 group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
@@ -724,11 +724,11 @@ udp://@225.1.1.224:30120
 #EXTINF:-1 group-title="Mua Sắm",BTV11 TOP Home Shopping
 udp://@225.1.4.84:30120
 #-------------------DRM-------------------#
-#EXTINF:-1 group-title="K+",K+1 HD (DRM)
+#EXTINF:-1 group-title="K+",K+Cine HD (DRM)
 udp://@225.1.1.5:30120
-#EXTINF:-1 group-title="K+",K+NS HD (DRM)
+#EXTINF:-1 group-title="K+",K+Life HD (DRM)
 udp://@225.1.1.6:30120
-#EXTINF:-1 group-title="K+",K+PM HD (DRM)
+#EXTINF:-1 group-title="K+",K+Sport 1 HD (DRM)
 udp://@225.1.1.73:30120
-#EXTINF:-1 group-title="K+",K+PC HD (DRM)
+#EXTINF:-1 group-title="K+",K+Sport 2 HD (DRM)
 udp://@225.1.1.77:30120
