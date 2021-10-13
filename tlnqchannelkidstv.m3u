@@ -17,7 +17,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8|Referer=https://sct
 #EXTINF:0 tvg-id="sctv3hd" tvg-name="SCTV3 HD" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-31.jpg" group-title="SCTV",See TV - Dành cho trẻ 6 tuổi
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=https://sctvonline.vn/
 
-#EXTINF:0 tvg-id="hanoicab2" tvg-name="Hanoicab 2" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" gruop-title="Hanoicab",YouTV - Dành cho trẻ từ 6 tuổi xem cùng với phụ huynh
+#EXTINF:0 tvg-id="hanoicab2" tvg-name="Hanoicab 2" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" group-title="Hanoicab",YouTV - Dành cho trẻ từ 6 tuổi xem cùng với phụ huynh
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="animaxhd" tvg-name="Animax HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png" group-title="Kênh Quốc Tế Thiếu Nhi",Animax - Dành cho trẻ từ 13 tuổi
