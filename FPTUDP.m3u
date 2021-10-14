@@ -76,7 +76,7 @@ udp://@225.1.1.193:30120
 udp://@225.1.1.192:30120
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD (HD 8Mbps)
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvcfbnc" group-title="HTV/HTVC",FBNC (HD 8Mbps)
+#EXTINF:-1 tvg-id="htvcfbnc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg" group-title="HTV/HTVC",FBNC (HD 8Mbps)
 udp://@225.1.1.182:30120
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim (HD 8Mbps)
 udp://@225.1.1.184:30120
@@ -102,10 +102,10 @@ udp://@225.1.1.170:30120
 udp://@225.1.1.171:30120
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt
 udp://@225.1.1.174:30120
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC",HTVC+
+#EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" group-title="HTV/HTVC",HTVC+
 udp://@225.1.1.181:30120
 #-------------------SCTV-------------------#
-#EXTINF:-1 tvg-id="sctv2" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-21.jpg" group-title="SCTV",SCTV2
+#EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-21.jpg" group-title="SCTV",SCTV2
 udp://@225.1.1.234:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
