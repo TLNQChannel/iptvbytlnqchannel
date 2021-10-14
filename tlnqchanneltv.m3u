@@ -1,31 +1,31 @@
 #EXTM3U url-tvg="http://gg.gg/tlnqchannelepg"
 #Liên hệ chủ list IPTV tại đây:facebook.com/tlnq.channel.9999
 #EXTM3U Bản quyền list IPTV này thuộc về TLNQ Channel TV
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title=" VTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title=" VTV " tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/VTV2_HD.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/VTV2_HD.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" group-title=" VTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD 
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" group-title=" VTV " tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/21/VTV4_HD.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/21/VTV4_HD.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title=" VTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/VTV5_HD_logo.png/revision/latest?cb=20201231094036&path-prefix=vi" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/VTV5_HD_logo.png/revision/latest?cb=20201231094036&path-prefix=vi" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title=" VTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV5-TayNamBo.png",VTV5 Tây Nam Bộ 
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV5-TayNamBo.png",VTV5 Tây Nam Bộ 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 Tây Nguyên" group-title=" VTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/VTV5_T%C3%A2y_Nguy%C3%AAn_HD_logo.png/revision/latest?cb=20201204145738&path-prefix=vi",VTV5 Tây Nguyên 
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 Tây Nguyên" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/VTV5_T%C3%A2y_Nguy%C3%AAn_HD_logo.png/revision/latest?cb=20201204145738&path-prefix=vi",VTV5 Tây Nguyên 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" group-title=" VTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/VTV6_HD_logo_2019.png/revision/latest?cb=20201228134033&path-prefix=vi" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD 
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/VTV6_HD_logo_2019.png/revision/latest?cb=20201228134033&path-prefix=vi" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title=" VTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/VTV7_HD_05.02.2019-nay.png/revision/latest?cb=20201213014332&path-prefix=vi" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/VTV7_HD_05.02.2019-nay.png/revision/latest?cb=20201213014332&path-prefix=vi" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e7/VTV8_HD_logo_2016_tr%C6%B0%E1%BB%9Bc_v%C3%A0_sau_th%E1%BB%9Di_s%E1%BB%B1.png/revision/latest?cb=20201231095354&path-prefix=vi",VTV8 HD 
