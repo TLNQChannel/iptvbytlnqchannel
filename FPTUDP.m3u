@@ -280,71 +280,69 @@ udp://@225.1.1.156:30120
 #EXTINF:-1 tvg-id="soctrang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_153233048284.jpg" group-title="Địa phương (SD)",STV1 _ TH Sóc Trăng
 udp://@225.1.1.159:30120
 #-------------------Quốc tế HD-------------------#
-#EXTINF:-1 group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
 udp://@225.1.1.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Animax (HD 8Mbps)
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png" group-title="Quốc Tế (HD)",Animax (HD 8Mbps)
 udp://@225.1.1.135:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Asian Food Network (HD 8Mbps)
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png" group-title="Quốc Tế (HD)",Asian Food Network (HD 8Mbps)
 udp://@225.1.1.198:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",AXN (HD 8Mbps)
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png" group-title="Quốc Tế (HD)",AXN (HD 8Mbps)
 udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps)
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/3/23/baby-tv-crop-15217904812391954901115.jpg" group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps)
 udp://@225.1.2.146:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC CbeeBies (HD 8Mbps)
+#EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png" group-title="Quốc Tế (HD)",BBC CbeeBies (HD 8Mbps)
 udp://@225.1.1.134:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC Earth (HD 8Mbps)
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://p.kindpng.com/picc/s/287-2872125_bbc-earth-hd-png-download.png" group-title="Quốc Tế (HD)",BBC Earth (HD 8Mbps)
 udp://@225.1.2.24:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BOOMERANG (HD 8Mbps)
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="Quốc Tế (HD)",BOOMERANG (HD 8Mbps)
 udp://@225.1.1.138:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 8Mbps)
+#EXTINF:-1 tvg-id="blueantent" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-entertainment_154850587839.jpg" group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 8Mbps)
 udp://@225.1.1.203:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BLUE ANT EXTREME (HD 8Mbps)
+#EXTINF:-1 tvg-id="blueantext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Extreme.png" group-title="Quốc Tế (HD)",ROCK EXTREME (HD 8Mbps)
 udp://@225.1.1.204:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 8Mbps)
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 8Mbps)
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
 udp://@225.1.1.142:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_158830569489.png" group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
 udp://@225.1.2.86:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps)
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps)
 udp://@225.1.1.197:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Asia (HD 8Mbps)
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" group-title="Quốc Tế (HD)",Discovery Asia (HD 8Mbps)
 udp://@225.1.2.223:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
 udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Dreamworks (HD 8Mbps)
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế (HD)",Dreamworks (HD 8Mbps)
 udp://@225.1.1.136:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",DW (HD 8Mbps)
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="Quốc Tế (HD)",DW (HD 8Mbps)
 udp://@225.1.1.46:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png" group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
 udp://@225.1.2.227:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV 4K
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png" group-title="Quốc Tế (HD)",Fashion TV 4K
 udp://@225.1.2.232:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV 4K
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png" group-title="Quốc Tế (HD)",Fashion TV 4K
 udp://@225.1.2.234:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
 udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
 udp://@225.1.4.90:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
 udp://@225.1.2.144:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle-thumbnail.png" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
+#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/16/331047-nat_geo_wild.png" group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
 udp://@225.1.1.211:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png" group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
 udp://@225.1.1.47:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
 udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
+#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
 udp://@225.1.1.236:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
 udp://@225.1.4.38:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
-udp://@225.1.4.32:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-ang" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.4.31:30120
 #-------------------Quốc tế SD-------------------#
 #EXTINF:-1 group-title="Quốc Tế (SD)",Arirang
@@ -486,16 +484,6 @@ udp://@225.1.4.24:30120
 udp://@225.1.4.75:30120
 #EXTINF:-1 group-title="FPT Play",FASHION TV HD
 udp://@225.1.4.20:30120
-#EXTINF:-1 group-title="FPT Play",FOX HD
-udp://@225.1.4.33:30120
-#EXTINF:-1 group-title="FPT Play",FOX MOVIES HD
-udp://@225.1.4.34:30120
-#EXTINF:-1 group-title="FPT Play",FOX SPORTS HD
-udp://@225.1.4.10:30120
-#EXTINF:-1 group-title="FPT Play",FOX SPORTS 2 HD
-udp://@225.1.4.11:30120
-#EXTINF:-1 group-title="FPT Play",FOX SPORTS 3 HD
-udp://@225.1.4.12:30120
 #EXTINF:-1 group-title="FPT Play",FRANCE 24
 udp://@225.1.4.71:30120
 #EXTINF:-1 group-title="FPT Play",KBS WORLD
