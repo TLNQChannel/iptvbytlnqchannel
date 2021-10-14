@@ -338,11 +338,11 @@ udp://@225.1.1.47:30120
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
 udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://d2xcq4qphg1ge9.cloudfront.net/assets/374099/3867928/original_37253189_10155391217151455_5401054995447545856_n.png" group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
 udp://@225.1.4.38:30120
-#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-ang" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle-thumbnail.png" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.4.31:30120
 #-------------------Quốc tế SD-------------------#
 #EXTINF:-1 tvg-id="arirang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png" group-title="Quốc Tế (SD)",Arirang
