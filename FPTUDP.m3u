@@ -123,18 +123,18 @@ udp://@225.1.4.148:30120
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 4Mbps)
 udp://@225.1.4.217:30120
 #-------------------Other-------------------#
-#EXTINF:-1 tvg-id="youtv" group-title="Other",HanoiCab2 YouTV
+#EXTINF:-1 tvg-id="youtv" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" group-title="Other",HanoiCab2 YouTV
 udp://@225.1.1.207:30120
-#EXTINF:-1 tvg-id="mtvhd" group-title="Other" tvg-logo="https://imgur.com/qzEFit1",MTV
+#EXTINF:-1 tvg-id="mtvhd" group-title="Other" tvg-logo="https://banner2.cleanpng.com/20180531/bap/kisspng-television-mtv-production-companies-video-mtv-logo-5b10506a0313d1.0032348315277958180126.jpg",MTV
 udp://@225.1.1.245:30120
 #-------------------Địa phương HD-------------------#
-#EXTINF:-1 group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
+#EXTINF:-1 tvg-id="laocai" group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
-#EXTINF:-1 group-title="Địa phương (HD)",ĐTV HD _ TH Điện Biên (HD 8Mbps)
+#EXTINF:-1 tvg-id="dienbien" group-title="Địa phương (HD)",ĐTV HD _ TH Điện Biên (HD 8Mbps)
 udp://@225.1.1.74:30120
-#EXTINF:-1 group-title="Địa phương (HD)",TTV HD _ TH Tuyên Quang (HD 8Mbps)
+#EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương (HD)",TTV HD _ TH Tuyên Quang (HD 8Mbps)
 udp://@225.1.2.188:30120
-#EXTINF:-1 group-title="Địa phương (HD)",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương (HD)",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
 udp://@225.1.2.179:30120
 #EXTINF:-1 group-title="Địa phương (HD)",HBTV HD _ TH Hòa Bình (HD 4Mbps)
 udp://@225.1.2.168:30120
