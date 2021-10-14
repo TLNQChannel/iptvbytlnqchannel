@@ -128,53 +128,53 @@ udp://@225.1.1.207:30120
 #EXTINF:-1 tvg-id="mtvhd" group-title="Other" tvg-logo="https://banner2.cleanpng.com/20180531/bap/kisspng-television-mtv-production-companies-video-mtv-logo-5b10506a0313d1.0032348315277958180126.jpg",MTV
 udp://@225.1.1.245:30120
 #-------------------Địa phương HD-------------------#
-#EXTINF:-1 tvg-id="laocai" group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
+#EXTINF:-1 tvg-id="laocai" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-thlc.png" group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
-#EXTINF:-1 tvg-id="dienbien" group-title="Địa phương (HD)",ĐTV HD _ TH Điện Biên (HD 8Mbps)
+#EXTINF:-1 tvg-id="dienbien" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_156455538188.jpg" group-title="Địa phương (HD)",ĐTV HD _ TH Điện Biên (HD 8Mbps)
 udp://@225.1.1.74:30120
-#EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương (HD)",TTV HD _ TH Tuyên Quang (HD 8Mbps)
+#EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tuyen-quang_145673727398.jpg" group-title="Địa phương (HD)",TTV HD _ TH Tuyên Quang (HD 8Mbps)
 udp://@225.1.2.188:30120
-#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương (HD)",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
+#EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-nguyen_156455574521.jpg" group-title="Địa phương (HD)",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
 udp://@225.1.2.179:30120
-#EXTINF:-1 group-title="Địa phương (HD)",HBTV HD _ TH Hòa Bình (HD 4Mbps)
+#EXTINF:-1 tvg-id="hoabinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_145681701391.jpg" group-title="Địa phương (HD)",HBTV HD _ TH Hòa Bình (HD 4Mbps)
 udp://@225.1.2.168:30120
-#EXTINF:-1 group-title="Địa phương (HD)",PTV HD _ TH Phú Thọ (HD 8Mbps)
+#EXTINF:-1 tvg-id="phutho" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569793241.png" group-title="Địa phương (HD)",PTV HD _ TH Phú Thọ (HD 8Mbps)
 udp://@225.1.2.165:30120
-#EXTINF:-1 group-title="Địa phương (HD)",BGTV HD _ TH Bắc Giang (HD 8Mbps)
+#EXTINF:-1 tvg-id="bacgiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_15700007937.jpg" group-title="Địa phương (HD)",BGTV HD _ TH Bắc Giang (HD 8Mbps)
 udp://@225.1.1.164:30120
-#EXTINF:-1 group-title="Địa phương (HD)",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
+#EXTINF:-1 tvg-id="langson" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lang-son_145880895824.jpg" group-title="Địa phương (HD)",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
 udp://@225.1.1.160:30120
-#EXTINF:-1 group-title="Địa phương (HD)",CRTV HD _ TH Cao Bằng (HD 8Mbps)
+#EXTINF:-1 tvg-id="caobang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg" group-title="Địa phương (HD)",CRTV HD _ TH Cao Bằng (HD 8Mbps)
 udp://@225.1.1.102:30120
-#EXTINF:-1 group-title="Địa phương (HD)",TBK HD _ TH Bắc Kạn (HD 4Mbps)
+#EXTINF:-1 tvg-id="backan" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/TBK.png/revision/latest?cb=20210823053428&path-prefix=vi" group-title="Địa phương (HD)",TBK HD _ TH Bắc Kạn (HD 4Mbps)
 udp://@225.1.1.126:30120
-#EXTINF:-1 group-title="Địa phương (HD)",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
+#EXTINF:-1 tvg-id="quangninh1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-1_145672976024.jpg" group-title="Địa phương (HD)",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
 udp://@225.1.2.181:30120
-#EXTINF:-1 group-title="Địa phương (HD)",BTV _ TH Bắc Ninh (HD 8Mbps)
+#EXTINF:-1 tvg-id="bacninh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_156455524327.jpg" group-title="Địa phương (HD)",BTV _ TH Bắc Ninh (HD 8Mbps)
 udp://@225.1.1.40:30120
-#EXTINF:-1 group-title="Địa phương (HD)",H1 HD _ TH Hà Nội (HD 8Mbps)
+#EXTINF:-1 tvg-id="hanoi1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg" group-title="Địa phương (HD)",H1 HD _ TH Hà Nội (HD 8Mbps)
 udp://@225.1.2.186:30120
-#EXTINF:-1 group-title="Địa phương (HD)",H2 HD _ TH Hà Nội (HD 8Mbps)
+#EXTINF:-1 tvg-id="hanoi2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg" group-title="Địa phương (HD)",H2 HD _ TH Hà Nội (HD 8Mbps)
 udp://@225.1.1.125:30120
-#EXTINF:-1 group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg" group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
 udp://@225.1.1.44:30120
-#EXTINF:-1 group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
+#EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://fptninhbinh.vn/wp-content/uploads/2018/02/%C4%90%C3%A0i-Ph%C3%A1t-thanh-v%C3%A0-Truy%E1%BB%81n-h%C3%ACnh-Ninh-B%C3%ACnh.jpg" group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
 udp://@225.1.2.185:30120
-#EXTINF:-1 group-title="Địa phương (HD)",NTV HD _ TH Nghệ An (HD 8Mbps)
+#EXTINF:-1 tvg-id="nghean" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg" group-title="Địa phương (HD)",NTV HD _ TH Nghệ An (HD 8Mbps)
 udp://@225.1.2.183:30120
-#EXTINF:-1 group-title="Địa phương (HD)",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
+#EXTINF:-1 tvg-id="hatinh" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/666883-hatinh.png" group-title="Địa phương (HD)",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
 udp://@225.1.1.75:30120
-#EXTINF:-1 group-title="Địa phương (HD)",QRTV _ TH Quảng Trị (HD 8Mbps)
+#EXTINF:-1 tvg-id="quangtri" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_qrtv.jpg" group-title="Địa phương (HD)",QRTV _ TH Quảng Trị (HD 8Mbps)
 udp://@225.1.1.117:30120
-#EXTINF:-1 group-title="Địa phương (HD)",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+#EXTINF:-1 tvg-id="danang1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-1_156455534553.jpg" group-title="Địa phương (HD)",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
 udp://@225.1.1.147:30120
-#EXTINF:-1 group-title="Địa phương (HD)",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+#EXTINF:-1 tvg-id="danang2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg" group-title="Địa phương (HD)",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
 udp://@225.1.1.146:30120
-#EXTINF:-1 group-title="Địa phương (HD)",QRT HD _ TH Quảng Nam (HD 8Mbps)
+#EXTINF:-1 tvg-id="quangnam" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_145880919575.jpg" group-title="Địa phương (HD)",QRT HD _ TH Quảng Nam (HD 8Mbps)
 udp://@225.1.2.50:30120
-#EXTINF:-1 group-title="Địa phương (HD)",PTQ _ TH Quảng Ngãi (HD 8Mbps)
+#EXTINF:-1 tvg-id="quangngai" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ngai_146362646218.jpg" group-title="Địa phương (HD)",PTQ _ TH Quảng Ngãi (HD 8Mbps)
 udp://@225.1.2.174:30120
-#EXTINF:-1 group-title="Địa phương (HD)",BTV _ TH Bình Định (HD 8Mbps)
+#EXTINF:-1 tvg-id="binhdinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg" group-title="Địa phương (HD)",BTV _ TH Bình Định (HD 8Mbps)
 udp://@225.1.1.145:30120
 #EXTINF:-1 group-title="Địa phương (HD)",PTP _ TH Phú Yên (HD 8Mbps)
 udp://@225.1.2.58:30120
