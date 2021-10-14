@@ -501,17 +501,17 @@ udp://@225.1.4.72:30120
 #EXTINF:-1 group-title="FPT Play",WBTV HD
 udp://@225.1.4.14:30120
 #-------------------FPT Service-------------------#
-#EXTINF:-1 group-title="FPT Service",Dolife Hospital
+#EXTINF:-1 tvg-logo="https://192.168.1.1/images/logo.png" group-title="FPT Service",Dolife Hospital
 udp://@225.1.1.127:30120
-#EXTINF:-1 group-title="FPT Service",Grand Phoenix Hotel
+#EXTINF:-1 tvg-logo="https://192.168.1.1/images/logo.png" group-title="FPT Service",Grand Phoenix Hotel
 udp://@225.1.1.66:30120
-#EXTINF:-1 group-title="FPT Service",The Mira Hotel
+#EXTINF:-1 tvg-logo="https://192.168.1.1/images/logo.png" group-title="FPT Service",The Mira Hotel
 udp://@225.1.1.123:30120
-#EXTINF:-1 group-title="FPT Service",The Ocean Resort
+#EXTINF:-1 tvg-logo="https://192.168.1.1/images/logo.png" group-title="FPT Service",The Ocean Resort
 udp://@225.1.1.121:30120
-#EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Chương Trình
+#EXTINF:-1 tvg-logo="https://192.168.1.1/images/logo.png" group-title="FPT Service",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
-#EXTINF:-1 group-title="FPT Service",Chơi Hay Chia
+#EXTINF:-1 tvg-logo="https://192.168.1.1/images/logo.png" group-title="FPT Service",Chơi Hay Chia
 udp://@225.1.1.26:30120
 #-------------------test-------------------#
 #EXTINF:-1 group-title="TEST",BTV4 _ TH Bình Dương
