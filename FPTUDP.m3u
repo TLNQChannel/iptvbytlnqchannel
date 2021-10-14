@@ -312,7 +312,7 @@ udp://@225.1.1.197:30120
 udp://@225.1.2.223:30120
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
 udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế (HD)",Dreamworks (HD 8Mbps)
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://www.awn.com/sites/default/files/styles/original/public/image/featured/dwa-logo-e1570499602899_1.jpg?itok=2-ZeJGUM" group-title="Quốc Tế (HD)",Dreamworks (HD 8Mbps)
 udp://@225.1.1.136:30120
 #EXTINF:-1 tvg-id="dw" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="Quốc Tế (HD)",DW (HD 8Mbps)
 udp://@225.1.1.46:30120
