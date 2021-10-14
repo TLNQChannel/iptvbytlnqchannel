@@ -239,45 +239,45 @@ udp://@225.1.2.180:30120
 udp://@225.1.1.63:30120
 #EXTINF:-1 tvg-id="haiduong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg" group-title="Địa phương (SD)",THD _ TH Hải Dương
 udp://@225.1.1.158:30120
-#EXTINF:-1 group-title="Địa phương (SD)",HY _ TH Hưng Yên
+#EXTINF:-1 tvg-id="hungyen" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg" group-title="Địa phương (SD)",HY _ TH Hưng Yên
 udp://@225.1.1.118:30120
-#EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Nam Định
+#EXTINF:-1 tvg-id="namdinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nam-dinh_145880959527.jpg" group-title="Địa phương (SD)",NTV _ TH Nam Định
 udp://@225.1.1.120:30120
-#EXTINF:-1 group-title="Địa phương (SD)",TBTV _ TH Thái Bình
+#EXTINF:-1 tvg-id="thaibinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg" group-title="Địa phương (SD)",TBTV _ TH Thái Bình
 udp://@225.1.1.99:30120
-#EXTINF:-1 group-title="Địa phương (SD)",VP _ TH Vĩnh Phúc
+#EXTINF:-1 tvg-id="vinhphuc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg" group-title="Địa phương (SD)",VP _ TH Vĩnh Phúc
 udp://@225.1.2.99:30120
-#EXTINF:-1 group-title="Địa phương (SD)",TTV _ TH Thanh Hóa
+#EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg" group-title="Địa phương (SD)",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:-1 group-title="Địa phương (SD)",QBTV _ TH Quảng Bình
+#EXTINF:-1 tvg-id="quangbinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg" group-title="Địa phương (SD)",QBTV _ TH Quảng Bình
 udp://@225.1.2.164:30120
-#EXTINF:-1 group-title="Địa phương (SD)",TRT _ TH Thừa Thiên Huế
+#EXTINF:-1 tvg-id="thuathienhue" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg" group-title="Địa phương (SD)",TRT _ TH Thừa Thiên Huế
 udp://@225.1.1.161:30120
-#EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Ninh Thuận
+#EXTINF:-1 tvg-id="ninhthuan" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-thuan_154260171915.jpg" group-title="Địa phương (SD)",NTV _ TH Ninh Thuận
 udp://@225.1.2.178:30120
-#EXTINF:-1 group-title="Địa phương (SD)",DRT _ TH Đắk Lắk
+#EXTINF:-1 tvg-id="daklak" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg" group-title="Địa phương (SD)",DRT _ TH Đắk Lắk
 udp://@225.1.1.64:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BPTV1 _ TH Bình Phước
+#EXTINF:-1 tvg-id="binhphuoc1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg" group-title="Địa phương (SD)",BPTV1 _ TH Bình Phước
 udp://@225.1.2.23:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BPTV2 _ TH Bình Phước
+#EXTINF:-1 tvg-id="binhphuoc2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg" group-title="Địa phương (SD)",BPTV2 _ TH Bình Phước
 udp://@225.1.2.38:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BTV2 _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương (SD)",BTV2 _ TH Bình Dương
 udp://@225.1.1.149:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BTV4 _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong4" group-title="Địa phương (SD)",BTV4 _ TH Bình Dương
 udp://@225.1.1.30:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BTV6 _ TH Bình Dương
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png" group-title="Địa phương (SD)",BTV6 _ TH Bình Dương
 udp://@225.1.1.223:30120
-#EXTINF:-1 group-title="Địa phương (SD)",BTV10 NCM
+#EXTINF:-1 tvg-id="ncm" tvg-logo="https://4movi.net/uploads/tv_image/btv10-ncm.png" group-title="Địa phương (SD)",BTV10 NCM
 udp://@225.1.1.225:30120
-#EXTINF:-1 group-title="Địa phương (SD)",LA34 _ TH Long An
+#EXTINF:-1 tvg-id="longan" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_long-an_145880901975.jpg" group-title="Địa phương (SD)",LA34 _ TH Long An
 udp://@225.1.1.162:30120
-#EXTINF:-1 group-title="Địa phương (SD)",THĐT1 _ TH Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg" group-title="Địa phương (SD)",THĐT1 _ TH Đồng Tháp
 udp://@225.1.1.163:30120
-#EXTINF:-1 group-title="Địa phương (SD)",ATV _ TH An Giang
+#EXTINF:-1 tvg-id="angiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png" group-title="Địa phương (SD)",ATV _ TH An Giang
 udp://@225.1.2.173:30120
-#EXTINF:-1 group-title="Địa phương (SD)",THBT _ TH Bến Tre
+#EXTINF:-1 tvg-id="bentre" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg" group-title="Địa phương (SD)",THBT _ TH Bến Tre
 udp://@225.1.1.156:30120
-#EXTINF:-1 group-title="Địa phương (SD)",STV1 _ TH Sóc Trăng
+#EXTINF:-1 tvg-id="soctrang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_153233048284.jpg" group-title="Địa phương (SD)",STV1 _ TH Sóc Trăng
 udp://@225.1.1.159:30120
 #-------------------Quốc tế HD-------------------#
 #EXTINF:-1 group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
