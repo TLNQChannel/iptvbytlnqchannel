@@ -311,62 +311,62 @@ http://cunbabyshop.xyz/htv7hd/mpegts
 http://cunbabyshop.xyz/htv9hd/mpegts
 #EXTINF:-1 group-title="TLNQ Channel TV",Seria 3
 http://cunbabyshop.xyz/htvtt/mpegts
-#EXTINF:-1 group-title="TLNQ Channel TV", TR:BEIN SPORTS HABER HD
+#EXTINF:-1 group-title="Bein Sports", TR:BEIN SPORTS HABER HD
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/12
-#EXTINF:-1 group-title="TLNQ Channel TV", TR:BEIN SPORTS S1
+#EXTINF:-1 group-title="Bein Sports", TR:BEIN SPORTS S1
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1107
-#EXTINF:-1 group-title="TLNQ Channel TV", TR:BEIN SPORTS S2
+#EXTINF:-1 group-title="Bein Sports", TR:BEIN SPORTS S2
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1108
-#EXTINF:-1 group-title="TLNQ Channel TV", TR:BEIN SPORTS S3
+#EXTINF:-1 group-title="Bein Sports", TR:BEIN SPORTS S3
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1109
-#EXTINF:-1 group-title="TLNQ Channel TV", TR:BEIN SPORTS S4
+#EXTINF:-1 group-title="Bein Sports", TR:BEIN SPORTS S4
 #EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1110
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",BEIN Sport Extra [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",BEIN Sport Extra [Xem trên acestream]
 acestream://4cf945e9dbb28aaa3b1bc73145f54d628a74b51d
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Match Football 3 HD [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Match Football 3 HD [Xem trên acestream]
 acestream://95b79e390a18271fa1492b42d5db6955bbce1c01
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",SKY Sport 1 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",SKY Sport 1 [Xem trên acestream]
 acestream://502f522719c6e73280b0c6a8ad4029058816ae9f
-#EXTINF-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Sky Sport Australia [Xem trên acestream]
+#EXTINF-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Sky Sport Australia [Xem trên acestream]
 acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",SKY Sport F1 [Xem trên acestream] 
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",SKY Sport F1 [Xem trên acestream] 
 acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",SKY Sport News [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",SKY Sport News [Xem trên acestream]
 acestream://22bd79ab7f3692a6290bd451b78a255cd662c494
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 1 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 1 [Xem trên acestream]
 acestream://363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 2 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 2 [Xem trên acestream]
 acestream://60927c52bb57d6865899736a5965eda4310c34d9
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 4 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 4 [Xem trên acestream]
 acestream://60927c52bb57d6865899736a5965eda4310c34d9
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 5 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 5 [Xem trên acestream]
 acestream://91dc43d07e04cbfd219a3f3d365d0058e3d5ac99
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 6 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Bundesliga 6 [Xem trên acestream]
 acestream://6651815413db581eef0f504bee66076b43848b7f
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Canal+ Sport [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Canal+ Sport [Xem trên acestream]
 acestream://b258f7b7fc2aed0e3e66fb4836113208902b5348
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",EURO Sport 4K [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",EURO Sport 4K [Xem trên acestream]
 acestream://9d9d10fad753592add6ad2313c216e6fc3729cd7
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",EURO Sport 1 HD [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",EURO Sport 1 HD [Xem trên acestream]
 acestream://a020f56162ff397b9c28a547ddbfdb283b458c0a
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",EURO Sport 2 HD [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",EURO Sport 2 HD [Xem trên acestream]
 acestream://a662de8d04c33371fdbc2298735eb03b445c90b1
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Elevent Sport 1 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Elevent Sport 1 [Xem trên acestream]
 acestream://ca89f7973ca3084f9c33bf7105daca5b46575ed5
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Elevent Sport 2 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Elevent Sport 2 [Xem trên acestream]
 acestream://572880fd38805efc2d5c9fa72a72669a00583808
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Elevent Sport 3 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Elevent Sport 3 [Xem trên acestream]
 acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
-#EXTINF:-1 group-title="TLNQ Channel TV" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Elevent Sport 4 [Xem trên acestream]
+#EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Elevent Sport 4 [Xem trên acestream]
 acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
-#EXTINF:0,TLNQ Channel TV 
+#EXTINF:0 group-title="TLNQ Channel TV",TLNQ Channel TV 
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:0,VTV1 Test 
+#EXTINF:0 gruop-title="TLNQ Channel TV", Test 
 https://kpluslive.akamaized.net/live/prod_vtv1_hd_fps/prod_vtv1_hd_fps.isml/prod_vtv1_hd_fps.mpd
 
 #EXTINF:-1 tvg-id="hanoicab2" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" group-title="IMC Group",YouTV 
