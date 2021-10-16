@@ -714,7 +714,7 @@ rtp://@232.84.1.97:8556
 rtp://@232.84.1.98:8562
 #EXTINF:-1 group-title="DRM" tvg-logo="",K+ Sports 2 (DRM)
 rtp://@232.84.1.131:10368
-#EXTM3U group-title="Dành cho mạng FPT" url-tvg="http://onetv.click/schedule/epg.xml"
+#EXTM3U group-title="Dành cho mạng FPT"
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD (HD 8Mbps)
 udp://@225.1.2.249:30120
