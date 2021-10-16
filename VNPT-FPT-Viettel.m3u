@@ -1,4 +1,4 @@
-#EXTM3U group-title="Dành cho mạng VNPT,cần udpxy" 
+#EXTM3U group-title="Dành cho mạng VNPT cần udpxy" 
 #------------------------VTV------------------------#
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD (HD 6.5Mbps)
 rtp://@232.84.1.117:10254
