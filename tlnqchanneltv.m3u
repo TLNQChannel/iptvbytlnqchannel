@@ -379,7 +379,7 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id"sctv2hd" group-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-21.jpg",SCTV2 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://8387d40698.vws.vegacdn.vn/live/netstars/chunklist_1.m3u8
+https://8387d40698.vws.vegacdn.vn/live/netstars/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-31.jpg",SCTV3 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=https://sctvonline.vn/
