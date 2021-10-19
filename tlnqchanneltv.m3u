@@ -366,8 +366,12 @@ acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
 acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
 #EXTINF:0 group-title="TLNQ Channel TV",TLNQ Channel TV 
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:0 gruop-title="TLNQ Channel TV", Test 
-vieonapp://vieon.vn/livetv/0f00afce-1aee-4431-a695-cbc332e8615c
+#EXTINF:0 group-title="K+" tvg-id="  " tvg-logo="https://i.postimg.cc/6Qrp6tt1/klplus-coodertv5.webp.png", K+KISD 
+#EXTPROP:inputstreamaddon=inputstream.adaptive
+#EXTPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
+#EXTPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
 #EXTINF:-1 tvg-id="hanoicab2" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" group-title="IMC Group",YouTV 
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
