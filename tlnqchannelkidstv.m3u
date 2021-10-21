@@ -48,6 +48,8 @@ https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-name="Canal+ Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="Kênh Quốc Tế Thiếu Nhi",Canal+ Kids - Dành cho trẻ từ 6 tuổi
 http://stop.next-code.xyz:2052/Nador/66263/20223
+#EXTINF:-1 group-title="Phim tuổi thơ",Con nhà giàu 1 
+https://drive.google.com/u/0/uc?id=1EHGLKcrb_d73UABT9j2KHJbjcLwpceu8&export=download
 
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/05/17/r6dbstq8_1920x1080-nuvitruyen-2_1267_712.jpg" group-title="Phim hoạt hình cho bé",Nuvi Truyện - Tập 1
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210524/hhtn_bq_nuvi_2021_ep01/64e61a43e112dcf87aa6494e837a69f4_1080p.mp4/chunklist_b4628000.m3u8
