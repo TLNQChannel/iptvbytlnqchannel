@@ -274,23 +274,8 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620210721142624",Yên Bái 
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 group-title="Live Thể Thao", Ngoại Hạng Anh 2 
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-#EXTINF:-1 group-title="Live Thể Thao", TR:BEIN SPORTS HABER HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/12
-#EXTINF:-1 group-title="Live Thể Thao", TR:BEIN SPORTS S1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1107
-#EXTINF:-1 group-title="Live Thể Thao", TR:BEIN SPORTS S2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1108
-#EXTINF:-1 group-title="Live Thể Thao", TR:BEIN SPORTS S3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1109
-#EXTINF:-1 group-title="Live Thể Thao", TR:BEIN SPORTS S4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1110
+#EXTINF:-1 group-title="Live Thể Thao",CV Media 
+http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
 #EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",BEIN Sport Extra [Xem trên acestream]
 acestream://4cf945e9dbb28aaa3b1bc73145f54d628a74b51d
 #EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Match Football 3 HD [Xem trên acestream]
