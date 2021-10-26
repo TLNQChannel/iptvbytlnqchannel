@@ -178,9 +178,9 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/09/25/447767-DN2.png",Đồng Nai 2 
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/422858-Dong-Thap.png",Đồng Tháp 1
-http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
+http://202.43.109.142:1935/THDT/thdttv/chunklist_w798296787.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFSky-a1SvavHRsrecLtfAaSnLSifpA7kiw&usqp=CAU",Đồng Tháp 2 
-http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
+http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1002831974.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="http://gialaitv.vn/wp-content/uploads/2021/09/audio2-1.gif",Gia Lai 
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://bvad.vn/wp-content/uploads/2017/05/Ha-Giang.png",Hà Giang 
