@@ -110,7 +110,7 @@ https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_1080p/playlist.m3u8
 https://vtc130121.cdn.vnns.io/VTC16_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://static.megavie.live/media/vinhlong1hd.jpg",THVL1 HD 
-https://vips-livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/THVL1-HD-ABR/HTV-ABR/THVL1-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://static.megavie.live/media/vinhlong2hd.jpg",THVL2 HD 
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://static.megavie.live/media/vinhlong3hd.jpg",THVL3 HD 
