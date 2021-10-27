@@ -476,6 +476,18 @@ https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png",Da Vinci 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="dreamworkhd" tvg-name="Dreamwork HD" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png" group-title="Quốc tế",DreamWork HD 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="babytv" tvg-name="Baby TV HD" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/3/23/baby-tv-crop-15217904812391954901115.jpg" group-title="Quốc tế",Baby TV
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="animalplanethd" tvg-name="Animal Planet HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="Quốc tế",Animal Planet
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="nationalgeographichd" tvg-name="National Geographic HD" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="Quốc tế", National Geographic HD
+#EXTVLCOPT:http-user-agent="TLNQChannelTV
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png",Discovery 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8
@@ -567,6 +579,9 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWA
 #EXTINF:-1 tvg-id="drfit" group-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068777998.png",DR Fit 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
+#EXTINF:0 tvg-id="happykidshd" tvg-name="Happy Kids HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068739769.png" group-title="Quốc tế",Happy Kids 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV1
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
