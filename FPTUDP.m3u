@@ -107,6 +107,8 @@ udp://@225.1.1.181:30120
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-21.jpg" group-title="SCTV",SCTV2
 udp://@225.1.1.234:30120
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-61.jpg" group-title="SCTV",SCTV6 
+udp://@225.1.1.188:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
 udp://@225.1.2.169:30120
