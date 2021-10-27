@@ -16,6 +16,8 @@ https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/VTV5_HD_logo.png/revision/latest?cb=20201231094036&path-prefix=vi" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/VTV5_HD_logo.png/revision/latest?cb=20201231094036&path-prefix=vi",VTV5 HD (Dự phòng)
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV5-TayNamBo.png",VTV5 Tây Nam Bộ 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
@@ -25,6 +27,9 @@ https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/VTV6_HD_logo_2019.png/revision/latest?cb=20201228134033&path-prefix=vi" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/VTV6_HD_logo_2019.png/revision/latest?cb=20201228134033&path-prefix=vi",VTV6 HD (Dự phòng) 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/VTV7_HD_05.02.2019-nay.png/revision/latest?cb=20201213014332&path-prefix=vi" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -276,8 +281,6 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 group-title="Live Thể Thao",CV Media 
 http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
-#EXTINF:-1 group-title="Live Thể Thao",U23 Việt Nam Vs U23 Đài Bắc Trung Hoa 
-http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 #EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",BEIN Sport Extra [Xem trên acestream]
 acestream://4cf945e9dbb28aaa3b1bc73145f54d628a74b51d
 #EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Match Football 3 HD [Xem trên acestream]
