@@ -281,6 +281,10 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 group-title="Live Thể Thao",CV Media 
 http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
+#EXTINF:-1 group-title="Live Thể Thao",Cakhia TV1 
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia6.tv/
+#EXTINF:-1 group-title="Live Thể Thao",Cakhia TV2 
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhiatv6.tv/
 #EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",BEIN Sport Extra [Xem trên acestream]
 acestream://4cf945e9dbb28aaa3b1bc73145f54d628a74b51d
 #EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",Match Football 3 HD [Xem trên acestream]
