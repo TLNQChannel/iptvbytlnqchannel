@@ -591,3 +591,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png",Redbull TV 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-un-web-tv-6932.jpg",United Nations 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://www.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/flavorIds/1_t99j24yi,1_bsogfzyt,1_xrg43i21,1_z7e3o1s4,1_2ts2t2ub,1_sde38jwg,1_vssxieer,1_n8kqal0r,1_euxa7unz,1_6sksh9uw,1_nb9nys26,1_sjxwiwyf,1_lek8y3vi,1_6peyxxs1,1_uqsq6d1f,1_olyis4ii,1_fvx0w97l,1_qdp4aoo2/a.m3u8?uiConfId=47917953&playSessionId=ae584ce8-d40f-ac32-7c65-da9d60b0b128:fc419a8c-241b-74bf-fcaf-55f812be086b&referrer=aHR0cHM6Ly9tZWRpYS51bi5vcmcvZW4vd2VidHY=&clientTag=html5:v1.10.1
