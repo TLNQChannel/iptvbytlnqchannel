@@ -282,7 +282,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="Live Thể Thao",CV Media 
 http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
 #EXTINF:-1 group-title="Live Thể Thao",Cakhia TV1 
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cay1hd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
 #EXTINF:-1 group-title="Live Thể Thao",Cakhia TV2 
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
 #EXTINF:-1 group-title="Live Thể Thao",Cakhia TV3 
