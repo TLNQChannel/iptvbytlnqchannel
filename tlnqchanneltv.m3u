@@ -337,13 +337,6 @@ acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
 #EXTINF:0 group-title="Live Thể Thao",Giải gì đó
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
-#EXTINF:0 group-title="K+" tvg-logo="https://img.kplus.vn/images?filename=Media/VodImages/Programs/2021_09/Clip_tra_2656981_ACRCWV.jpg&300920211926", K+ Kids (Ké nguồn của bác Trầm Tiến) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
-
 #EXTINF:-1 tvg-id="hanoicab2" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" group-title="IMC Group",YouTV 
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="mtv" tvg-logo="https://banner2.cleanpng.com/20180531/bap/kisspng-television-mtv-production-companies-video-mtv-logo-5b10506a0313d1.0032348315277958180126.jpg" group-title="IMC Group",MTV 
