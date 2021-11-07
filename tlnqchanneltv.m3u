@@ -451,8 +451,9 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=https://sc
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/VFAMILY_M.jpg",VTVCab20 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/On_Golf_Premium_VTVCab_23.png/revision/latest/scale-to-width-down/1000?cb=20210907045033&path-prefix=vi",VTVCab23 
-http://103.195.239.138/ongolf/mpegts
+
+#EXTINF:0 group-title="Ngoài lề", Một thời đã xa 
+https://uc4c29dee7ada080a7cb6b2ba1f7.previews.dropboxusercontent.com/p/hls_master_playlist/ABUxBWZuColNaAKqKyIf2o3qPCJ7qmmauyVFQG76Nret84Ex4KlFkBjcS60hhaMlaCTQ7iliAsiIVR1ywUaAQe6_zQrVoRynvyBtbOeVnLpkA7eqspWanrMA8r5qVEOeGAcfPsKx_2pW4yJfkmaTkuMxqcgaZRHiQktICb71CJ6M8Ir_25JmrCDjNyLZ1Rh-2FOCX7cdYQ6R2rcC4Wmk4sNtsHI5U1LpVXE3Y2VpHHvIb54JO5OjHYqoX8c-Fl9t_MREBzITDbgFM-7A0eRHwsu3ahUjyVe36QIG6uxfRtoIyekef2ZC55wDjpYodDTwQdwR4Gkh08yLVVmkv7LFdT_P/p.m3u8
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
