@@ -279,10 +279,9 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620210721142624",Yên Bái 
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg" group-title="Dành cho acestream",CV Media 
+#EXTINF:-1 group-title="Live Thể Thao" tvg-id="vtv6hd",VTV6 HD FPT
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
-http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
-#EXTINF:-1 group-title="Live Thể Thao",11/11/2021
+http://180.93.172.213/vtv6tlnq/mpegts
 
 #EXTINF:-1 group-title="Dành cho acestream" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/lista-canales-actualizadas-acestream-arenavision-5365263.jpg",BEIN Sport Extra [Xem trên acestream]
 http://127.0.0.1:6878/ace/getstream?id=4cf945e9dbb28aaa3b1bc73145f54d628a74b51d
