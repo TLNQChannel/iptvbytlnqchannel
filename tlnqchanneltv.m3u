@@ -589,10 +589,10 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg",Box Hits 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2.m3u8
+https://bit.ly/3wEHAcW
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBoxChannel_150x901j1.jpg",intheBOX 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2.m3u8
+https://bit.ly/3kwBy9t
 #EXTINF:-1 tvg-id="planetearth" group-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png",Planet Earth 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=https://sctvonline.vn/
