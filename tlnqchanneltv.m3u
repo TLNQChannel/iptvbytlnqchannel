@@ -474,7 +474,11 @@ http://9788a020f3.vws.vegacdn.vn/live/_definst_/stream_1_d3773/playlist.m3u8
 #EXTINF:0 group-title="Live Thể Thao",RaKhoi.tv
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep
 #EXTINF:0 group-title="Live Thể Thao",RaKhoi.tv2 
-
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep
+#EXTINF:0 group-title="Live Thể Thao",Rakhoi.tv3 
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/chunklist.m3u8|Referer:https://live.rakhoi.tv/truc-tiep
+#EXTINF:0 group-title="Live Thể Thao",Rakhoi.tv4
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
