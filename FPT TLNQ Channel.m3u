@@ -159,6 +159,8 @@ http://tlnqchannel.ddns.net:34040/udp/225.1.1.93:30120
 http://tlnqchannel.ddns.net:34040/udp/225.1.1.236:30120
 #EXTINF:-1,TV5Monde Asia
 http://tlnqchannel.ddns.net:34040/udp/225.1.1.200:30120
+#EXTINF:-1,Warner TV 
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.139:30120
 #EXTINF:-1,TN1 HD _ TH Thái Nguyên (HD 4Mbps)
 http://tlnqchannel.ddns.net:34040/udp/225.1.2.179:30120
 #EXTINF:-1,PTV HD _ TH Phú Thọ (HD 4Mbps)
