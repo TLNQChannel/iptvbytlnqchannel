@@ -470,6 +470,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=https://sc
 
 #EXTINF:0 group-title="Live Thể Thao",Sự kiện 1
 http://9788a020f3.vws.vegacdn.vn/live/_definst_/stream_1_d3773/playlist.m3u8
+#EXTINF:0, group-title="Live Thể Thao",Sự kiện 2
+https://d2htg7eyxtiids.cloudfront.net/out/v1/96f78ff899b24b8c8998b98c3a9f61ef/index_1.m3u8
 #EXTINF:0 group-title="Live Thể Thao",RaKhoi.tv
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep
 #EXTINF:0 group-title="Live Thể Thao",RaKhoi.tv2 
