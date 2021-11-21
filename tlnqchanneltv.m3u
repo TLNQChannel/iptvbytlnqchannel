@@ -641,3 +641,31 @@ http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/2552/index.m3u8
 http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/2553/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/logo/ESPN3_US.png", ESPN 3
 http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/2554/index.m3u8
+
+
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 1 Premium
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f893%2fbein-sports-premium-1.png", Bein Sports 2 Premium
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png", Bein Sports 3 Premium
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png", Bein Sports Xtra 1
+http://xcchui2.mrnova.online/live/60242_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png", Bein Sports Xtra 2
+http://xcchui2.mrnova.online/live/60244_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png", Bein Sports FR 1
+http://xcchui2.mrnova.online/live/60685_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png", Bein Sports FR 2
+http://xcchui2.mrnova.online/live/60686_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png", Bein Sports FR 3
+http://xcchui2.mrnova.online/live/60687_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://ewsat.com/img/BEIN_SPORTS_02.png", Bein Sports Turkey 2
+http://xcchui2.mrnova.online/live/60436_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://ewsat.com/img/BEIN_SPORTS_03.png", Bein Sports Turkey 3
+http://xcchui2.mrnova.online/live/60437_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://ewsat.com/img/BEIN_SPORTS_04.png", Bein Sports Turkey 4
+http://xcchui2.mrnova.online/live/60438_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", Bein Sports 1 Asia
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png", Bein Sports 2 Asia
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
