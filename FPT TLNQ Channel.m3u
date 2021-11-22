@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1,VTV1 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.249:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.249:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,VTV2 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.13:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.13:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,VTV3 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.247:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.247:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,VTV4 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.20:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.20:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,VTV5 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.131:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.131:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,VTV6 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.245:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.245:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,VTV7 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.96:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.96:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,VTV8 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.166:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.166:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,VTV9 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.128:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.128:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,HTV1
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.180:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.180:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,HTV2 HD-Vie Channel
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.193:30120
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.193:30120/stream/id/123456789?profile=pass
 #EXTINF:-1,HTV3
 http://tlnqchannel.ddns.net:34040/udp/225.1.1.178:30120
 #EXTINF:-1,HTV4-Key
