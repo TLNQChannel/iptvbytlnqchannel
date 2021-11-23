@@ -1,333 +1,339 @@
 #EXTM3U
 #EXTINF:-1,VTV1 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.249:30120/stream/id/123456789
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.249:30120/stream/id/123456789/mpegts
 #EXTINF:-1,VTV2 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.13:30120/stream/id/56969597
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.13:30120/stream/id/56969597/mpegts
 #EXTINF:-1,VTV3 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.247:30120/stream/id/6483728
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.247:30120/stream/id/6483728/mpegts
 #EXTINF:-1,VTV4 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.20:30120/stream/id/42728283
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.20:30120/stream/id/42728283/mpegts
 #EXTINF:-1,VTV5 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.131:30120/stream/id/6372828
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.131:30120/stream/id/6372828/mpegts
 #EXTINF:-1,VTV6 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.245:30120/stream/id/53737384
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.245:30120/stream/id/53737384/mpegts
 #EXTINF:-1,VTV7 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.96:30120/stream/id/338383794
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.96:30120/stream/id/338383794/mpegts
 #EXTINF:-1,VTV8 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.166:30120/stream/id/45678907
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.166:30120/stream/id/45678907/mpegts
 #EXTINF:-1,VTV9 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.128:30120/stream/id/53729586
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.128:30120/stream/id/53729586/mpegts
 #EXTINF:-1,HTV1
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.180:30120/stream/id/58079599
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.180:30120/stream/id/58079599/mpegts
 #EXTINF:-1,HTV2 HD-Vie Channel
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.193:30120/stream/id/24648488
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.193:30120/stream/id/24648488/mpegts
 #EXTINF:-1,HTV3
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.178:30120/stream/id/94069542
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.178:30120/stream/id/94069542/mpegts
 #EXTINF:-1,HTV4-Key
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.177:30120/stream/id/53830778
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.177:30120/stream/id/53830778/mpegts
 #EXTINF:-1,HTV7 FHD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.192:30120/stream/id/74654755
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.192:30120/stream/id/74654755/mpegts
 #EXTINF:-1,HTV9 FHD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.190:30120/stream/id/74737373
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.190:30120/stream/id/74737373/mpegts
 #EXTINF:-1,HTVC Phim HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.184:30120/stream/id/63747576
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.184:30120/stream/id/63747576/mpegts
 #EXTINF:-1,HTVC Gia Đình
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.170:30120/stream/id/74736233
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.170:30120/stream/id/74736233/mpegts
 #EXTINF:-1,HTVC Du Lịch
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.166:30120/stream/id/64738475
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.166:30120/stream/id/64738475/mpegts
 #EXTINF:-1,HTVC Phụ Nữ
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.171:30120/stream/id/09989877
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.171:30120/stream/id/09989877/mpegts
 #EXTINF:-1,HTVC Thuần Việt HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.186:30120/stream/id/32526375
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.186:30120/stream/id/32526375/mpegts
 #EXTINF:-1,HTVC Thuần Việt
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.174:30120/stream/id/64627476
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.174:30120/stream/id/64627476/mpegts
 #EXTINF:-1,FBNC HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.182:30120/stream/id/74848600
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.182:30120/stream/id/74848600/mpegts
 #EXTINF:-1,HTV Coop
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.210:30120/stream/id/07979880
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.210:30120/stream/id/07979880/mpegts
 #EXTINF:-1,HTVC Thể Thao HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.165:30120/stream/id/968697989
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.165:30120/stream/id/968697989/mpegts
 #EXTINF:-1,HTVC Shopping-VGS Shop
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.172:30120/stream/id/570783679
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.172:30120/stream/id/570783679/mpegts
 #EXTINF:-1,VTC1 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.254:30120/stream/id/595940486
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.254:30120/stream/id/595940486/mpegts
 #EXTINF:-1,VTC2
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.202:30120/stream/id/060408909
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.202:30120/stream/id/060408909/mpegts
 #EXTINF:-1,VTC3 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.251:30120/stream/id/590798007
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.251:30120/stream/id/590798007/mpegts
 #EXTINF:-1,Yeah1 !Family - VTC4
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.200:30120/stream/id/738304884
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.200:30120/stream/id/738304884/mpegts
 #EXTINF:-1,tvBlue - VTC5
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.199:30120/stream/id/6473959679
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.199:30120/stream/id/6473959679/mpegts
 #EXTINF:-1,VTC6
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.198:30120/stream/id/96969069
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.198:30120/stream/id/96969069/mpegts
 #EXTINF:-1,Today TV - VTC7
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.197:30120/stream/id/99999999
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.197:30120/stream/id/99999999/mpegts
 #EXTINF:-1,View TV - VTC8
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.196:30120/stream/id/58003325
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.196:30120/stream/id/58003325/mpegts
 #EXTINF:-1,VTC9
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.195:30120/stream/id/84068480
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.195:30120/stream/id/84068480/mpegts
 #EXTINF:-1,Nét Việt - VTC10
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.194:30120/stream/id/89008999
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.194:30120/stream/id/89008999/mpegts
 #EXTINF:-1,Kids TV - VTC11
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.193:30120/stream/id/86850000
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.193:30120/stream/id/86850000/mpegts
 #EXTINF:-1,VTCK - VTC12 
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.51:30120/stream/id/64848679
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.51:30120/stream/id/64848679/mpegts
 #EXTINF:-1,VTC13 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.250:30120/stream/id/694939395
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.250:30120/stream/id/694939395/mpegts
 #EXTINF:-1,VTC14 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.88:30120/stream/id/8079493840
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.88:30120/stream/id/8079493840/mpegts
 #EXTINF:-1,3NTV - VTC16 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.190:30120/stream/id/648382826
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.190:30120/stream/id/648382826/mpegts
 #EXTINF:-1,THVL1 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.155:30120/stream/id/594049470
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.155:30120/stream/id/594049470/mpegts
 #EXTINF:-1,THVL2 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.154:30120/stream/id/9604830490
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.154:30120/stream/id/9604830490/mpegts
 #EXTINF:-1,THVL3 HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.235:30120/stream/id/7483828370
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.235:30120/stream/id/7483828370/mpegts
 #EXTINF:-1, THVL4 HD 
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.25:30120/stream/id/8593839480
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.25:30120/stream/id/8593839480/mpegts
 #EXTINF:-1,PTQ HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.174:30120/stream/id/345637374
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.174:30120/stream/id/345637374/mpegts
 #EXTINF:-1,MTV
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.245:30120/stream/id/8542374522
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.245:30120/stream/id/8542374522/mpegts
 #EXTINF:-1,Animal Planet
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.231:30120/stream/id/6272727366
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.231:30120/stream/id/6272727366/mpegts
 #EXTINF:-1,Asian Food Channel HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.198:30120/stream/id/5271728298
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.198:30120/stream/id/5271728298/mpegts
 #EXTINF:-1,ABC Australia
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.21:30120/stream/id/13647475789
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.21:30120/stream/id/13647475789/mpegts
 #EXTINF:-1,AXN HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.225:30120/stream/id/737727384
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.225:30120/stream/id/737727384/mpegts
 #EXTINF:-1,BBC Earth HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.24:30120/stream/id/7372728286
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.24:30120/stream/id/7372728286/mpegts
 #EXTINF:-1,BBC Lifestyle
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.52:30120/stream/id/46272747
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.52:30120/stream/id/46272747/mpegts
 #EXTINF:-1,BBC World News
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.74:30120/stream/id/73839779
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.74:30120/stream/id/73839779/mpegts
 #EXTINF:-1,BBC Cbeebies HD 
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.134:30120/stream/id/16383949
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.134:30120/stream/id/16383949/mpegts
 #EXTINF:-1,Baby TV HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.146:30120/stream/id/190897979
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.146:30120/stream/id/190897979/mpegts
 #EXTINF:-1,Baby First HD 
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.137:30120/stream/id/679695989
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.137:30120/stream/id/679695989/mpegts
 #EXTINF:-1,Rock Entertainment HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.203:30120/stream/id/683930800
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.203:30120/stream/id/683930800/mpegts
 #EXTINF:-1,Rock Extreme HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.204:30120/stream/id/589697090
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.204:30120/stream/id/589697090/mpegts
 #EXTINF:-1,Cartoon Network HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.231:30120/stream/id/84839490
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.231:30120/stream/id/84839490/mpegts
 #EXTINF:-1,Channel News Asia
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.202:30120/stream/id/64949494
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.202:30120/stream/id/64949494/mpegts
 #EXTINF:-1,Cinema World HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.142:30120/stream/id/90088070
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.142:30120/stream/id/90088070/mpegts
 #EXTINF:-1,CNBC
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.227:30120/stream/id/70604084
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.227:30120/stream/id/70604084/mpegts
 #EXTINF:-1,CNN
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.242:30120/stream/id/60394939
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.242:30120/stream/id/60394939/mpegts
 #EXTINF:-1,Da Vinci Learning HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.197:30120/stream/id/49404837
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.197:30120/stream/id/49404837/mpegts
 #EXTINF:-1,Discovery Asia HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.223:30120/stream/id/35302039
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.223:30120/stream/id/35302039/mpegts
 #EXTINF:-1,Discovery Channel
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.238:30120/stream/id/58604030
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.238:30120/stream/id/58604030/mpegts
 #EXTINF:-1,DW HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.46:30120/stream/id/202930394
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.46:30120/stream/id/202930394/mpegts
 #EXTINF:-1,SCTV2-ACM
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.234:30120/stream/id/30494049
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.234:30120/stream/id/30494049/mpegts
 #EXTINF:-1,SCTV6-Fim360 
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.188:30120/stream/id/483939957
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.188:30120/stream/id/483939957/mpegts
 #EXTINF:-1,FTV HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.227:30120/stream/id/59393949
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.227:30120/stream/id/59393949/mpegts
 #EXTINF:-1,France 24
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.211:30120/stream/id/53939394
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.211:30120/stream/id/53939394/mpegts
 #EXTINF:-1,HBO HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.4.90:30120/stream/id/237363754
+http://tlnqchannel.ddns.net:34040/udp/225.1.4.90:30120/stream/id/237363754/mpegts
 #EXTINF:-1,KIX HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.144:30120/stream/id/69403948
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.144:30120/stream/id/69403948/mpegts
 #EXTINF:-1,MAX by HBO HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.86:30120/stream/id/695040499
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.86:30120/stream/id/695040499/mpegts
 #EXTINF:-1,National Geographic HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.235:30120/stream/id/453727164
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.235:30120/stream/id/453727164/mpegts
 #EXTINF:-1,NHK World
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.47:30120/stream/id/805949068
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.47:30120/stream/id/805949068/mpegts
 #EXTINF:-1,Outdoor Channel HD
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.215:30120/stream/id/605040404
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.215:30120/stream/id/605040404/mpegts
 #EXTINF:-1,TLC
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.236:30120/stream/id/090085667
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.236:30120/stream/id/090085667/mpegts
 #EXTINF:-1,TV5Monde Asia
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.200:30120/stream/id/576367789
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.200:30120/stream/id/576367789/mpegts
 #EXTINF:-1,Warner TV 
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.139:30120/stream/id/839393890
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.139:30120/stream/id/839393890/mpegts
 #EXTINF:-1,TN1 HD _ TH Thái Nguyên (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.179:30120/stream/id/503039283
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.179:30120/stream/id/503039283/mpegts
 #EXTINF:-1,PTV HD _ TH Phú Thọ (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.165:30120/stream/id/077362635
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.165:30120/stream/id/077362635/mpegts
 #EXTINF:-1,QTV1 HD _ TH Quảng Ninh (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.181:30120/stream/id/436261738
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.181:30120/stream/id/436261738/mpegts
 #EXTINF:-1,BTV _ TH Bắc Ninh (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.40:30120/stream/id/7949383776
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.40:30120/stream/id/7949383776/mpegts
 #EXTINF:-1,H1 HD _ TH Hà Nội (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.186:30120/stream/id/705040480
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.186:30120/stream/id/705040480/mpegts
 #EXTINF:-1,H2 HD _ TH Hà Nội (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.125:30120/stream/id/738282844
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.125:30120/stream/id/738282844/mpegts
 #EXTINF:-1,THP HD _ TH Thành phố Hải Phòng (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.44:30120/stream/id/8040494789
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.44:30120/stream/id/8040494789/mpegts
 #EXTINF:-1,NTV HD _ TH Ninh Bình (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.185:30120/stream/id/089758575
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.185:30120/stream/id/089758575/mpegts
 #EXTINF:-1,NTV HD _ TH Nghệ An (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.183:30120/stream/id/858483849
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.183:30120/stream/id/858483849/mpegts
 #EXTINF:-1,DaNangTV1 HD _ TH Thành phố Đà Nẵng (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.147:30120/stream/id/78393i4838
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.147:30120/stream/id/78393i4838/mpegts
 #EXTINF:-1,DaNangTV2 HD _ TH Thành phố Đà Nẵng (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.146:30120/stream/id/730397172
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.146:30120/stream/id/730397172/mpegts
 #EXTINF:-1,PTP _ TH Phú Yên (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.58:30120/stream/id/74838384874
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.58:30120/stream/id/74838384874/mpegts
 #EXTINF:-1,KTV HD _ TH Khánh Hòa (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.133:30120/stream/id/8399384846
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.133:30120/stream/id/8399384846/mpegts
 #EXTINF:-1,THGL _ TH Gia Lai (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.176:30120/stream/id/2526162745
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.176:30120/stream/id/2526162745/mpegts
 #EXTINF:-1,BTV1 HD _ TH Bình Dương (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.150:30120/stream/id/6373828374
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.150:30120/stream/id/6373828374/mpegts
 #EXTINF:-1,BTV2 HD _ TH Bình Dương (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.149:30120/stream/id/7404039468
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.149:30120/stream/id/7404039468/mpegts
 #EXTINF:-1,ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.152:30120/stream/id/6950505064
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.152:30120/stream/id/6950505064/mpegts
 #EXTINF:-1,ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.151:30120/stream/id/8505050866
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.151:30120/stream/id/8505050866/mpegts
 #EXTINF:-1,TTV11 _ TH Tây Ninh (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.130:30120/stream/id/75959607078
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.130:30120/stream/id/75959607078/mpegts
 #EXTINF:-1,BRT HD _ TH Bà Rịa Vũng Tàu (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.175:30120/stream/id/70604949690
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.175:30120/stream/id/70604949690/mpegts
 #EXTINF:-1,THTG _ TH Tiền Giang (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.170:30120/stream/id/88968665769
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.170:30120/stream/id/88968665769/mpegts
 #EXTINF:-1,THTV HD _ TH Trà Vinh (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.172:30120/stream/id/89059605984
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.172:30120/stream/id/89059605984/mpegts
 #EXTINF:-1,HGTV _ TH Hậu Giang (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.157:30120/stream/id/8605040597
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.157:30120/stream/id/8605040597/mpegts
 #EXTINF:-1,KG1 _ TH Kiên Giang (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.182:30120/stream/id/8970806999
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.182:30120/stream/id/8970806999/mpegts
 #EXTINF:-1,BLTV HD _ TH Bạc Liêu (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.61:30120/stream/id/73838495687
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.61:30120/stream/id/73838495687/mpegts
 #EXTINF:-1,CTV _ TH Cà Mau (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.104:30120/stream/id/8080695960
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.104:30120/stream/id/8080695960/mpegts
 #EXTINF:-1,THLC _ TH Lào Cai
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.119:30120/stream/id/9906959905
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.119:30120/stream/id/9906959905/mpegts
 #EXTINF:-1,YTV _ TH Yên Bái
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.39:30120/stream/id/05039382836
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.39:30120/stream/id/05039382836/mpegts
 #EXTINF:-1,ĐTV _ TH Điện Biên
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.74:30120/stream/id/08643525367
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.74:30120/stream/id/08643525367/mpegts
 #EXTINF:-1,HBTV _ TH Hòa Bình
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.168:30120/stream/id/7683727368
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.168:30120/stream/id/7683727368/mpegts
 #EXTINF:-1,STV _ TH Sơn La
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.98:30120/stream/id/94938274684
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.98:30120/stream/id/94938274684/mpegts
 #EXTINF:-1,HGTV _ TH Hà Giang
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.62:30120/stream/id/906957478478
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.62:30120/stream/id/906957478478/mpegts
 #EXTINF:-1,CRTV _ TH Cao Bằng
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.102:30120/stream/id/06958364638
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.102:30120/stream/id/06958364638/mpegts
 #EXTINF:-1,LSTV _ TH Lạng Sơn
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.160:30120/stream/id/95949596590
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.160:30120/stream/id/95949596590/mpegts
 #EXTINF:-1,TTV _ TH Tuyên Quang
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.188:30120/stream/id/88482727487
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.188:30120/stream/id/88482727487/mpegts
 #EXTINF:-1,BGTV _ TH Bắc Giang
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.164:30120/stream/id/90949392859
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.164:30120/stream/id/90949392859/mpegts
 #EXTINF:-1,QTV3 _ TH Quảng Ninh
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.180:30120/stream/id/04949393770
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.180:30120/stream/id/04949393770/mpegts
 #EXTINF:-1,THHN _ TH Hà Nam
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.63:30120/stream/id/0494939685876
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.63:30120/stream/id/0494939685876/mpegts
 #EXTINF:-1,THD _ TH Hải Dương
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.158:30120/stream/id/959506998806
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.158:30120/stream/id/959506998806/mpegts
 #EXTINF:-1,HY _ TH Hưng Yên
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.118:30120/stream/id/131838484799
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.118:30120/stream/id/131838484799/mpegts
 #EXTINF:-1,NTV _ TH Nam Định
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.120:30120/stream/id/994i89394007
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.120:30120/stream/id/994i89394007/mpegts
 #EXTINF:-1,TBTV _ TH Thái Bình
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.99:30120/stream/id/8582828204874
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.99:30120/stream/id/8582828204874/mpegts
 #EXTINF:-1,VP _ TH Vĩnh Phúc
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.99:30120/stream/id/684930595940
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.99:30120/stream/id/684930595940/mpegts
 #EXTINF:-1,TTV _ TH Thanh Hóa
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.184:30120/stream/id/95939281744
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.184:30120/stream/id/95939281744/mpegts
 #EXTINF:-1,HTTV _ TH Hà Tĩnh
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.75:30120/stream/id/868305959599
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.75:30120/stream/id/868305959599/mpegts
 #EXTINF:-1,QBTV _ TH Quảng Bình
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.164:30120/stream/id/80493927379
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.164:30120/stream/id/80493927379/mpegts
 #EXTINF:-1,QRTV _ TH Quảng Trị
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.117:30120/stream/id/85828282839
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.117:30120/stream/id/85828282839/mpegts
 #EXTINF:-1,TRT _ TH Thừa Thiên Huế
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.161:30120/strean/id/95938283848
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.161:30120/strean/id/95938283848/mpegts
 #EXTINF:-1,QRT _ TH Quảng Nam
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.50:30120/stream/id/849049595900
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.50:30120/stream/id/849049595900/mpegts
 #EXTINF:-1,BTV _ TH Bình Định
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.145:30120/stream/id/84838272737
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.145:30120/stream/id/84838272737/mpegts
 #EXTINF:-1,NTV _ TH Ninh Thuận
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.178:30120/stream/id/73948496987
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.178:30120/stream/id/73948496987/mpegts
 #EXTINF:-1,BTV _ TH Bình Thuận
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.124:30120/stream/id/79505059785
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.124:30120/stream/id/79505059785/mpegts
 #EXTINF:-1,KRT _ TH Kon Tum
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.36:30120/stream/id/673828295908
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.36:30120/stream/id/673828295908/mpegts
 #EXTINF:-1,DRT _ TH Đắk Lắk
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.64:30120/stream/id/049382728489
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.64:30120/stream/id/049382728489/mpegts
 #EXTINF:-1,LTV _ TH Lâm Đồng
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.177:30120/stream/id/04939384758
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.177:30120/stream/id/04939384758/mpegts
 #EXTINF:-1,BPTV1 _ TH Bình Phước
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.23:30120/stream/id/949383748890
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.23:30120/stream/id/949383748890/mpegts
 #EXTINF:-1,BPTV2 _ HOME tv
-http://tlnqchannel.ddns.net:34040udp/225.1.2.38:30120/stream/id/7373059695909
+http://tlnqchannel.ddns.net:34040udp/225.1.2.38:30120/stream/id/7373059695909/mpegts
 #EXTINF:-1,BTV6 _ TH Bình Dương
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.223:30120/stream/id/93828183858
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.223:30120/stream/id/93828183858/mpegts
 #EXTINF:-1,BTV11 _ TH Bình Dương
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.224:30120/stream/id/73829385995
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.224:30120/stream/id/73829385995/mpegts
 #EXTINF:-1,LA34 _ TH Long An
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.162:30120/stream/id/483838394959
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.162:30120/stream/id/483838394959/mpegts
 #EXTINF:-1,THĐT1 _ TH Đồng Tháp
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.163:30120/stream/id/705959598489
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.163:30120/stream/id/705959598489/mpegts
 #EXTINF:-1,ATV _ TH An Giang
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.173:30120/stream/id/959493849748
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.173:30120/stream/id/959493849748/mpegts
 #EXTINF:-1,THBT _ TH Bến Tre
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.156:30120/stream/id/949382848598
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.156:30120/stream/id/949382848598/mpegts
 #EXTINF:-1,STV1 _ TH Sóc Trăng
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.159:30120/stream/id/748283837587
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.159:30120/stream/id/748283837587/mpegts
 #EXTINF:-1,THTPCT _ TH Thành phố Cần Thơ
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.132:30120/stream/id/840484948748
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.132:30120/stream/id/840484948748/mpegts
 #EXTINF:-1,VOV
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.171:30120/stream/id/847494937579
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.171:30120/stream/id/847494937579/mpegts
 #EXTINF:-1,ANTV HD (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.169:30120/stream/id/895059684879
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.169:30120/stream/id/895059684879/mpegts
 #EXTINF:-1,Nhân Dân TV (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.91:30120/stream/id/9764738485879
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.91:30120/stream/id/9764738485879/mpegts
 #EXTINF:-1,QUỐC HỘI (HD 6Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.148:30120/stream/id/058594970698
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.148:30120/stream/id/058594970698/mpegts
 #EXTINF:-1,QPVN (HD 6Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.217:30120/stream/id/8383949695967
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.217:30120/stream/id/8383949695967/mpegts
 #EXTINF:-1,VNEWS (HD 4Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.43:30120/stream/id/63739495970700
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.43:30120/stream/id/63739495970700/mpegts
 #EXTINF:-1,An Viên HD _ BTV9 (HD 50p)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.189:30120/stream/id/7384839595980
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.189:30120/stream/id/7384839595980/mpegts
 #EXTINF:-1,NCM _ BTV10
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.225:30120/stream/id/5838494850699
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.225:30120/stream/id/5838494850699/mpegts
 #EXTINF:-1,youTV _ Hanoicab2
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.207:30120/stream/id/7849494949495
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.207:30120/stream/id/7849494949495/mpegts
 #EXTINF:-1,HBO (HD 11Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.102:30120/stream/id/8494939586848
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.102:30120/stream/id/8494939586848/mpegts
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD (HD 8Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.4.31:30120/stream/id/86960494966990
+http://tlnqchannel.ddns.net:34040/udp/225.1.4.31:30120/stream/id/86960494966990/mpegts
 #EXTINF:-1,WBTV (HD 8Mbps)
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.139:30120/stream/id/8483938587479
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.139:30120/stream/id/8483938587479/mpegts
 #EXTINF:-1,Arirang KOREA
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.201:30120/stream/id/7483828384848
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.201:30120/stream/id/7483828384848/mpegts
 #EXTINF:-1,KBS WORLD
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.196:30120/stream/id/8483929485959
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.196:30120/stream/id/8483929485959/mpegts
+#EXTINF:-1,FTV UHD 
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.234:30120/stream/id/8584938586477/mpegts
 #EXTINF:-1,FPT Giới Thiệu Chương Trình
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.2:30120/stream/id/739494949595070
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.2:30120/stream/id/739494949595070/mpegts
 #EXTINF:-1,FPT Chơi Hay Chia 
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.26:30120/stream/id/63940594848595
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.26:30120/stream/id/63940594848595/mpegts
+#EXTINF:-1, FPT Clean Feed 1 
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.27:30120/stream/id/06483838485976/mpegts
+#EXTINF:-1, FPT Clean Feed 2 
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.28:30120/stream/id/63828384864858/mpegts
 #EXTINF:-1,VTVCab11 _ GS SHOP
-http://tlnqchannel.ddns.net:34040/225.1.2.167:30120/stream/id/648383848608900
+http://tlnqchannel.ddns.net:34040/225.1.2.167:30120/stream/id/648383848608900/mpegts
 #EXTINF:-1,SCTV10 _ VTV Hyundai Homeshopping
-http://tlnqchannel.ddns.net:34040/udp/225.1.2.37:30120/stream/id/970596080707
+http://tlnqchannel.ddns.net:34040/udp/225.1.2.37:30120/stream/id/970596080707/mpegts
 #EXTINF:-1,VTVCab13 _ VTV Hyundai Homeshopping
-http://tlnqchannel.ddns.net:34040/udp/225.1.4.79:30120/stream/id/059493837385
+http://tlnqchannel.ddns.net:34040/udp/225.1.4.79:30120/stream/id/059493837385/mpegts
 #EXTINF:-1,BTV6 _ Quê Hương Homeshopping
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.90:30120/stream/id/849494949690
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.90:30120/stream/id/849494949690/mpegts
 #EXTINF:-1,ĐN9 _ SkyShop 
-http://tlnqchannel.ddns.net:34040/udp/225.1.1.153:30120/stream/id/74849596979
+http://tlnqchannel.ddns.net:34040/udp/225.1.1.153:30120/stream/id/74849596979/mpegts
