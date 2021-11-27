@@ -186,7 +186,7 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w798296787.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFSky-a1SvavHRsrecLtfAaSnLSifpA7kiw&usqp=CAU",Đồng Tháp 2 
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1002831974.m3u8
-#EXTINF:-1 group-title="Địa phương" tvg-logo="http://gialaitv.vn/wp-content/uploads/2021/09/audio2-1.gif",Gia Lai 
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://gialaitv.vn/wp-content/uploads/2021/09/audio2-1.gif",Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://bvad.vn/wp-content/uploads/2017/05/Ha-Giang.png",Hà Giang 
 http://113.162.84.113:8080/hls/fm/index.m3u8
@@ -264,6 +264,8 @@ http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdnwebonplay.gviet.vn/public/logos/channel/kenh_thainguyen_big.png",Thái Nguyên 1 
 http://103.90.220.236/tntvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_tn21.jpg",Thái Nguyên 2 
+https://bit.ly/thainguyen2livenet
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569936638.png",Thanh Hóa 
 https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/TRT_HUE.png/revision/latest?cb=20210807113443&path-prefix=vi",Thừa Thiên Huế 
