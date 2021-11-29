@@ -430,6 +430,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=https://sct
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/ON_Sports_TV_logo_%28Th%E1%BB%83_Thao_TV%29.png/revision/latest?cb=20210908104950&path-prefix=vi",VTVCab3 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/ON_Sports_TV_logo_%28Th%E1%BB%83_Thao_TV%29.png/revision/latest?cb=20210908104950&path-prefix=vi",VTVCab3 Sever 2
+http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVCAB" tvg-logo="https://3.bp.blogspot.com/-znBLIJJGVdc/WZEkKFwYaoI/AAAAAAAAAiE/jPYcJH4IZDMbD95xYI0tnixDI0TPKp_AQCPcBGAYYCw/s1600/VTVcab4-Van-Hoa.jpg",VTVCab4 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=https://sctvonline.vn/
@@ -439,6 +441,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=https://sct
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONSport1.jpg",VTVCab6 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONSport1.jpg",VTVCab6 Sever 2 
+http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=196
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVCAB" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832391120.png",VTVCab7 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=https://sctvonline.vn/
