@@ -18,12 +18,6 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD (HD 8Mbps)
 udp://@225.1.1.128:30120
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD (HD 8Mbps)
-udp://@225.1.1.239:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 8Mbps)
-udp://@225.1.1.240:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 8Mbps)
-udp://@225.1.1.241:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 4Mbps)
 udp://@225.1.4.2:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 4Mbps)
@@ -298,6 +292,8 @@ udp://@225.1.1.134:30120
 udp://@225.1.2.24:30120
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="Quốc Tế (HD)",BOOMERANG (HD 8Mbps)
 udp://@225.1.1.138:30120
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="Quốc Tế (HD)",BOOMERANG (HD 4Mbps)
+udp://@225.1.4.16:30120
 #EXTINF:-1 tvg-id="blueantent" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-entertainment_154850587839.jpg" group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 8Mbps)
 udp://@225.1.1.203:30120
 #EXTINF:-1 tvg-id="blueantext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Extreme.png" group-title="Quốc Tế (HD)",ROCK EXTREME (HD 8Mbps)
