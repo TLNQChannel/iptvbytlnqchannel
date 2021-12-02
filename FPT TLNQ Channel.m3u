@@ -97,6 +97,8 @@ http://fpttlnqchannel.duckdns.org:34040/udp/225.1.1.231:30120/stream/id/62727273
 http://fpttlnqchannel.duckdns.org:34040/udp/225.1.1.198:30120/stream/id/5271728298/mpegts
 #EXTINF:-1,ABC Australia
 http://fpttlnqchannel.duckdns.org:34040/udp/225.1.2.21:30120/stream/id/13647475789/mpegts
+#EXTINF:-1,Animax HD 
+http://fpttlnqchannel.duckdns.org:34040/udp/225.1.1.135:30120/stream/id/0684736467/mpegts
 #EXTINF:-1,AXN HD
 http://fpttlnqchannel.duckdns.org:34040/udp/225.1.2.225:30120/stream/id/737727384/mpegts
 #EXTINF:-1,BBC Earth HD
