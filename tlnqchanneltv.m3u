@@ -499,6 +499,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/chunklis
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/chunklist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep
 #EXTINF:0 group-title="Live Thể Thao",Rakhoi.tv10
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/chunklist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep
+#EXTINF:0 group-title="Live Thể Thao",Rakhoi.tv11 
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
