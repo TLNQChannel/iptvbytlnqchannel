@@ -475,7 +475,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=https://sc
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=https://sctvonline.vn/
 
-#EXTINF:0 group-title="Live Thể Thao",Sự kiện 1
+#EXTINF:0 group-title="Live Thể Thao",19h Việt Nam vs Lào 
 http://98005ae8e5.vws.vegacdn.vn/live/_definst_/stream_1_7fcd5/playlist.m3u8
 #EXTINF:0, group-title="Live Thể Thao",Sự kiện 2
 http://93.152.174.144:4000/play/skysports3/index.m3u8
