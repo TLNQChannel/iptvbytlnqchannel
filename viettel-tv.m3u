@@ -32,6 +32,8 @@ rtp://@239.12.251.195:5000
 rtp://@239.12.251.204:5000
 #EXTINF:-1 group-title="VTVCab",VTVCab20 
 rtp://@239.1.0.41:5501
+#EXTINF:-1 group-title="VTVCab",VTVCab21 
+rtp://@239.1.0.79:5501
 #EXTINF:-1 group-title="VTVCab",VTVCab22 
 rtp://@239.1.0.82:5501
 #EXTINF:-1 group-title="VTVCab",VTVCab23 
