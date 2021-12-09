@@ -257,7 +257,7 @@ rtp://@239.12.251.66:5000
 #EXTINF:-1 group-title="Địa phương",Vinh Long 1
 rtp://@239.12.251.149:5000
 #EXTINF:-1 group-title="Địa phương",Vinh Long 1 HD 
-rtp://@239.12.251.100:5000
+rtp://@239.12.251.99:5000
 #EXTINF:-1 group-title="Địa phương",Vinh Long 2
 rtp://@239.12.251.67:5000
 #EXTINF:-1 group-title="Địa phương",Vinh Long 2 HD 
