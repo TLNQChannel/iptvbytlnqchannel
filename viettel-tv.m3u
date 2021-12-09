@@ -32,6 +32,8 @@ rtp://@239.12.251.195:5000
 rtp://@239.12.251.204:5000
 #EXTINF:-1 group-title="VTVCab",VTVCab20 
 rtp://@239.1.0.41:5501
+#EXTINF:-1 group-title="VTVCab",VTVCab22 
+rtp://@239.1.0.82:5501
 #EXTINF:-1 group-title="VTVCab",VTVCab23 
 rtp://@239.1.0.10:5501
 #EXTINF:-1 group-title="VTC",VTC1 HD 
@@ -50,6 +52,8 @@ rtp://@239.1.0.4:5501
 rtp://@239.12.252.11:5000
 #EXTINF:-1 group-title="VTC",VTC10
 rtp://@239.12.252.26:5000
+#EXTINF:-1 group-title="VTC",VTC11 
+rtp://@239.1.0.106:5501
 #EXTINF:-1 group-title="VTC",VTC14 
 rtp://@239.12.252.21:5000
 #EXTINF:-1 group-title="VTC",VTC16
@@ -62,6 +66,8 @@ rtp://@239.12.252.1:5000
 rtp://@239.12.252.20:5000
 #EXTINF:-1 group-title="HTV",HTV2 - Vie Channel 
 rtp://@239.1.0.55:5501
+#EXTINF:-1 group-title="HTV",HTV3 
+rtp://@239.1.0.77:5501
 #EXTINF:-1 group-title="HTV",HTV Key 
 rtp://@239.1.0.56:5501
 #EXTINF:-1 group-title="HTV",HTV7 HD
@@ -98,6 +104,8 @@ rtp://@239.1.0.58:5501
 rtp://@239.1.0.61:5501
 #EXTINF:-1 group-title="HTV",Ca Nhac 
 rtp://@239.1.0.63:5501
+#EXTINF:-1 group-title="HTV",Phim 
+rtp://@239.1.0.76:5501
 #EXTINF:-1 group-title="Quốc tế",TV5MONDE Asie
 rtp://@239.12.252.17:5000
 #EXTINF:-1 group-title="Quốc tế",VNews
@@ -278,3 +286,11 @@ rtp://@239.1.0.27:5501
 rtp://@239.1.0.28:5501
 #EXTINF:-1 group-title="Quốc tế",KBS World 
 rtp://@239.1.0.46:5501
+#EXTINF:-1 group-title="Quốc tế",MTV 
+rtp://@239.1.0.68:5501
+#EXTINF:-1 group-title="Quốc tế",Baby TV 
+rtp://@239.1.0.69:5501
+#EXTINF:-1 group-title="Quốc tế",Music Box 
+rtp://@239.1.0.87:5501
+#EXTINF:-1 group-title="Quốc tế",Planet Earth 
+rtp://@239.1.0.88:5501
