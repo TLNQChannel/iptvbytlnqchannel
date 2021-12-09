@@ -1,0 +1,226 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="VTV",VTV1 HD
+rtp://@239.12.251.207:5000
+#EXTINF:-1 group-title="VTV",VTV2 HD
+rtp://@239.12.251.226:5000
+#EXTINF:-1 group-title="VTV",VTV3 HD
+rtp://@239.12.251.206:5000
+#EXTINF:-1 group-title="VTV",VTV4 HD
+rtp://@239.12.251.227:5000
+#EXTINF:-1 group-title="VTV",VTV5 HD
+rtp://@239.12.251.209:5000
+#EXTINF:-1 group-title="VTV",VTV6 HD
+rtp://@239.12.251.82:5000
+#EXTINF:-1 group-title="VTV",VTV7 HD
+rtp://@239.12.251.210:5000
+#EXTINF:-1 group-title="VTV",VTV8 HD 
+rtp://@239.12.251.211:5000
+#EXTINF:-1 group-title="VTV",VTVCab14 
+rtp://@239.12.251.229:5000
+#EXTINF:-1 group-title="VTVCab",VTVCab15 
+rtp://@239.12.251.195:5000
+#EXTINF:-1 group-title="VTVCab",VTVCab16 
+rtp://@239.12.251.204:5000
+#EXTINF:-1 group-title="VTC",VTC1 HD 
+rtp://@239.12.252.6:5000
+#EXTINF:-1 group-title="VTC",VTC3 HD
+rtp://@239.12.251.78:5000
+#EXTINF:-1 group-title="VTC",VTC4
+rtp://@239.12.251.88:5000
+#EXTINF:-1 group-title="VTC",VTC7
+rtp://@239.12.252.13:5000
+#EXTINF:-1 group-title="VTC",VTC9
+rtp://@239.12.252.11:5000
+#EXTINF:-1 group-title="VTC",VTC10
+rtp://@239.12.252.26:5000
+#EXTINF:-1 group-title="VTC",VTC14 
+rtp://@239.12.252.21:5000
+#EXTINF:-1 group-title="VTC",VTC16
+rtp://@239.12.252.22:5000
+#EXTINF:-1 group-title="Địa phương",Ha Noi 1 HD
+rtp://@239.12.251.223:5000
+#EXTINF:-1 group-title="Địa phương",Ha Noi 2
+rtp://@239.12.252.1:5000
+#EXTINF:-1 group-title="HTV",HTV1
+rtp://@239.12.252.20:5000
+#EXTINF:-1 group-title="HTV",HTV7 HD
+rtp://@239.12.251.205:5000
+#EXTINF:-1 group-title="HTV",HTV9 HD
+rtp://@239.12.252.9:5000
+#EXTINF:-1 group-title="Thiết yếu",An ninh the gioi
+rtp://@239.12.252.23:5000
+#EXTINF:-1 group-title="Thiết yếu",ANTV
+rtp://@239.12.252.24:5000
+#EXTINF:-1 group-title="Quốc tế",Arirang
+rtp://@239.12.252.18:5000
+#EXTINF:-1 group-title="Quốc tế",DWHD
+rtp://@239.12.252.16:5000
+#EXTINF:-1 group-title="Quốc tế",Nhan Dan
+rtp://@239.12.251.208:5000
+#EXTINF:-1 group-title="Quốc tế",NHK World
+rtp://@239.12.252.19:5000
+#EXTINF:-1 group-title="Quốc tế",OPT1
+rtp://@239.12.252.60:5000
+#EXTINF:-1 group-title="Thiết yếu",Quốc Hội SD
+rtp://@239.12.252.25:5000
+#EXTINF:-1 group-title="Viettel Media",QPVN
+rtp://@239.12.252.7:5000
+#EXTINF:-1 group-title="Viettel Media",SCTV6 
+rtp://@239.12.251.71:5000
+#EXTINF:-1,Thuan Viet
+rtp://@239.12.252.15:5000
+#EXTINF:-1 group-title="Quốc tế",TV5MONDE Asie
+rtp://@239.12.252.17:5000
+#EXTINF:-1 group-title="Quốc tế",VNews
+rtp://@239.12.252.8:5000
+#EXTINF:-1 group-title="Quốc tế",
+rtp://@239.12.251.214:5000
+#EXTINF:-1,YTV
+rtp://@239.12.251.69:5000
+#EXTINF:-1 group-title="Thiết yếu",BTV9 - An Vien 
+rtp://@239.12.251.61:5000
+#EXTINF:-1 group-title="Mua Sắm",ĐN9 - SkyShop 
+rtp://@239.12.251.64:5000
+#EXTINF:-1 group-title="Viettel Media",Loading 
+rtp://@239.12.251.79:5000
+#EXTINF:-1 group-title="Viettel Media",Trailer01
+rtp://@239.12.251.181:5000
+#EXTINF:-1 group-title="Viettel Media",Trailer02
+rtp://@239.12.251.183:5000
+#EXTINF:-1 group-title="Viettel Media",Danh sach kenh 
+rtp://@239.12.251.150:5000
+#EXTINF:-1 group-title="Viettel Media",Multiscreen 
+rtp://@239.12.251.151:5000
+#EXTINF:-1 group-title="Địa phương",An Giang
+rtp://@239.12.251.7:5000
+#EXTINF:-1 group-title="Địa phương",Ba Ria Vung Tau
+rtp://@239.12.251.8:5000
+#EXTINF:-1 group-title="Địa phương",Bac Can
+rtp://@239.12.251.10:5000
+#EXTINF:-1 group-title="Địa phương",Bac Giang
+rtp://@239.12.251.9:5000
+#EXTINF:-1 group-title="Địa phương",Bac Lieu
+rtp://@239.12.251.11:5000
+#EXTINF:-1 group-title="Địa phương",Bac Ninh
+rtp://@239.12.251.12:5000
+#EXTINF:-1 group-title="Địa phương",Ben Tre
+rtp://@239.12.251.13:5000
+#EXTINF:-1 group-title="Địa phương",Binh Dinh
+rtp://@239.12.251.14:5000
+#EXTINF:-1 group-title="Địa phương",Binh Phuoc 1
+rtp://@239.12.251.17:5000
+#EXTINF:-1 group-title="Địa phương",Binh Thuan
+rtp://@239.12.251.18:5000
+#EXTINF:-1 group-title="Địa phương",BTV1
+rtp://@239.12.251.15:5000
+#EXTINF:-1 group-title="Địa phương",BTV2
+rtp://@239.12.251.16:5000
+#EXTINF:-1 group-title="Địa phương",Ca Mau
+rtp://@239.12.251.19:5000
+#EXTINF:-1 group-title="Địa phương",Can Tho
+rtp://@239.12.251.20:5000
+#EXTINF:-1 group-title="Địa phương",Cao Bang
+rtp://@239.12.251.21:5000
+#EXTINF:-1 group-title="Địa phương",Da Nang
+rtp://@239.12.252.27:5000
+#EXTINF:-1 group-title="Địa phương",Dak Lak
+rtp://@239.12.251.23:5000
+#EXTINF:-1 group-title="Địa phương",Dak Nong
+rtp://@239.12.251.22:5000
+#EXTINF:-1 group-title="Địa phương",Dien Bien
+rtp://@239.12.251.24:5000
+#EXTINF:-1 group-title="Địa phương",Dong Nai 1
+rtp://@239.12.251.25:5000
+#EXTINF:-1 group-title="Địa phương",Dong Nai 2 
+rtp://@239.12.251.75:5000
+#EXTINF:-1 group-title="Địa phương",Dong Thap
+rtp://@239.12.251.26:5000
+#EXTINF:-1 group-title="Địa phương",Gia Lai
+rtp://@239.12.251.27:5000
+#EXTINF:-1 group-title="Địa phương",Ha Giang
+rtp://@239.12.251.28:5000
+#EXTINF:-1 group-title="Địa phương,Ha Nam
+rtp://@239.12.251.29:5000
+#EXTINF:-1 group-title="Địa phương",Ha Tinh
+rtp://@239.12.251.30:5000
+#EXTINF:-1 group-title="Địa phương",Hai Duong
+rtp://@239.12.251.31:5000
+#EXTINF:-1 group-title="Địa phương",Hai Phong
+rtp://@239.12.251.32:5000
+#EXTINF:-1 group-title="Địa phương",Hau Giang
+rtp://@239.12.251.33:5000
+#EXTINF:-1 group-title="Địa phương",Hoa Binh
+rtp://@239.12.251.34:5000
+#EXTINF:-1 group-title="Địa phương",Hue
+rtp://@239.12.252.5:5000
+#EXTINF:-1 group-title="Địa phương",Hung Yen
+rtp://@239.12.251.35:5000
+#EXTINF:-1 group-title="Địa phương",Khanh Hoa
+rtp://@239.12.252.2:5000
+#EXTINF:-1 group-title="Địa phương",Kien Giang
+rtp://@239.12.251.36:5000
+#EXTINF:-1 group-title="Địa phương",Kon Tum
+rtp://@239.12.251.37:5000
+#EXTINF:-1 group-title="Địa phương",Lai Chau
+rtp://@239.12.251.38:5000
+#EXTINF:-1 group-title="Địa phương",Lam Dong
+rtp://@239.12.252.3:5000
+#EXTINF:-1 group-title="Địa phương",Lang Son
+rtp://@239.12.251.39:5000
+#EXTINF:-1 group-title="Địa phương",Lao Cai
+rtp://@239.12.251.40:5000
+#EXTINF:-1 group-title="Địa phương",Long An
+rtp://@239.12.251.41:5000
+#EXTINF:-1 group-title="Địa phương",Nam Dinh
+rtp://@239.12.251.42:5000
+#EXTINF:-1 group-title="Địa phương",Nghe An
+rtp://@239.12.251.43:5000
+#EXTINF:-1 group-title="Địa phương",Ninh Binh
+rtp://@239.12.251.44:5000
+#EXTINF:-1 group-title="Địa phương",Ninh Thuan
+rtp://@239.12.251.45:5000
+#EXTINF:-1 group-title="Địa phương",Phu Tho
+rtp://@239.12.251.46:5000
+#EXTINF:-1 group-title="Địa phương",Phu Yen
+rtp://@239.12.251.47:5000
+#EXTINF:-1 group-title="Địa phương",Quang Binh
+rtp://@239.12.251.48:5000
+#EXTINF:-1 group-title="Địa phương",Quang Nam
+rtp://@239.12.251.49:5000
+#EXTINF:-1 group-title="Địa phương",Quang Ngai
+rtp://@239.12.251.50:5000
+#EXTINF:-1 group-title="Địa phương",Quang Ninh 1
+rtp://@239.12.251.51:5000
+#EXTINF:-1 group-title="Địa phương",Quang Ninh 3
+rtp://@239.12.251.52:5000
+#EXTINF:-1 group-title="Địa phương",Quang Tri
+rtp://@239.12.251.53:5000
+#EXTINF:-1 group-title="Địa phương",Soc Trang
+rtp://@239.12.251.54:5000
+#EXTINF:-1 group-title="Địa phương",Son La
+rtp://@239.12.251.55:5000
+#EXTINF:-1 group-title="Địa phương",Tay Ninh
+rtp://@239.12.251.56:5000
+#EXTINF:-1 group-title="Địa phương",Thai Binh
+rtp://@239.12.251.57:5000
+#EXTINF:-1 group-title="Địa phương",Thai Nguyen
+rtp://@239.12.251.58:5000
+#EXTINF:-1 group-title="Địa phương",Thanh Hoa
+rtp://@239.12.252.4:5000
+#EXTINF:-1 group-title="Địa phương",Tien Giang
+rtp://@239.12.251.59:5000
+#EXTINF:-1 group-title="Địa phương",Tra Vinh
+rtp://@239.12.251.60:5000
+#EXTINF:-1 group-title="Địa phương",Tuyen Quang
+rtp://@239.12.251.66:5000
+#EXTINF:-1 group-title="Địa phương",Vinh Long 1
+rtp://@239.12.251.149:5000
+#EXTINF:-1 group-title="Địa phương",Vinh Long 1 HD 
+rtp://@239.12.251.100:5000
+#EXTINF:-1 group-title="Địa phương",Vinh Long 2
+rtp://@239.12.251.67:5000
+#EXTINF:-1 group-title="Địa phương",Vinh Long 2 HD 
+rtp://@239.12.251.100:5000
+#EXTINF:-1 group-title="Địa phương",Vinh Phuc
+rtp://@239.12.251.68:5000
