@@ -72,16 +72,14 @@ rtp://@239.12.252.25:5000
 rtp://@239.12.252.7:5000
 #EXTINF:-1 group-title="Viettel Media",SCTV6 
 rtp://@239.12.251.71:5000
-#EXTINF:-1,Thuan Viet
+#EXTINF:-1 group-title="HTV",Thuan Viet
 rtp://@239.12.252.15:5000
 #EXTINF:-1 group-title="Quốc tế",TV5MONDE Asie
 rtp://@239.12.252.17:5000
 #EXTINF:-1 group-title="Quốc tế",VNews
 rtp://@239.12.252.8:5000
-#EXTINF:-1 group-title="Quốc tế",
+#EXTINF:-1 group-title="Quốc tế",VOV
 rtp://@239.12.251.214:5000
-#EXTINF:-1,YTV
-rtp://@239.12.251.69:5000
 #EXTINF:-1 group-title="Thiết yếu",BTV9 - An Vien 
 rtp://@239.12.251.61:5000
 #EXTINF:-1 group-title="Mua Sắm",ĐN9 - SkyShop 
@@ -232,3 +230,5 @@ rtp://@239.12.251.67:5000
 rtp://@239.12.251.100:5000
 #EXTINF:-1 group-title="Địa phương",Vinh Phuc
 rtp://@239.12.251.68:5000
+#EXTINF:-1 group-title="Địa phương",Yen Bai 
+rtp://@239.12.251.69:5000
