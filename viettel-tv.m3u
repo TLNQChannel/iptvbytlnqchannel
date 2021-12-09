@@ -18,6 +18,8 @@ rtp://@239.12.251.210:5000
 rtp://@239.12.251.211:5000
 #EXTINF:-1 group-title="VTV",VTV9 SD
 rtp://@239.1.0.12:5501
+#EXTINF:-1 group-title="VTVCab",VTVCab1 
+rtp://@239.1.0.53:5501
 #EXTINF:-1 group-title="VTVCab",VTVCab11 
 rtp://@239.12.252.14:5000
 #EXTINF:-1 group-title="VTVCab",VTVCab13 
@@ -58,6 +60,10 @@ rtp://@239.12.251.223:5000
 rtp://@239.12.252.1:5000
 #EXTINF:-1 group-title="HTV",HTV1
 rtp://@239.12.252.20:5000
+#EXTINF:-1 group-title="HTV",HTV2 - Vie Channel 
+rtp://@239.1.0.55:5501
+#EXTINF:-1 group-title="HTV",HTV Key 
+rtp://@239.1.0.56:5501
 #EXTINF:-1 group-title="HTV",HTV7 HD
 rtp://@239.12.251.205:5000
 #EXTINF:-1 group-title="HTV",HTV9 HD
@@ -86,6 +92,12 @@ rtp://@239.12.251.71:5000
 rtp://@239.12.252.15:5000
 #EXTINF:-1 group-title="HTV",Du Lich va Cuoc Song 
 rtp://@239.1.0.1:5501
+#EXTINF:-1 group-title="HTV",Gia Dinh 
+rtp://@239.1.0.58:5501
+#EXTINF:-1 group-title="HTV",Phu Nu 
+rtp://@239.1.0.61:5501
+#EXTINF:-1 group-title="HTV",Ca Nhac 
+rtp://@239.1.0.63:5501
 #EXTINF:-1 group-title="Quốc tế",TV5MONDE Asie
 rtp://@239.12.252.17:5000
 #EXTINF:-1 group-title="Quốc tế",VNews
