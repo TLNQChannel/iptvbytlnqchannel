@@ -110,15 +110,15 @@ rtp://@239.1.0.63:5501
 rtp://@239.1.0.76:5501
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png",TV5MONDE Asie
 rtp://@239.12.252.17:5000
-#EXTINF:-1 group-title="Quốc tế",VNews
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_162952438542.jpg",VNews
 rtp://@239.12.252.8:5000
-#EXTINF:-1 group-title="Quốc tế",VOV
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg",VOV
 rtp://@239.12.251.214:5000
-#EXTINF:-1 group-title="Thiết yếu",BTV9 - An Vien 
+#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv9_159662306193.jpg",BTV9 - An Vien 
 rtp://@239.12.251.61:5000
-#EXTINF:-1 group-title="Mua Sắm",ĐN9 - SkyShop 
+#EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://i.ytimg.com/vi/ciZTvoD7tZ8/maxresdefault.jpg",ĐN9 - SkyShop 
 rtp://@239.12.251.64:5000
-#EXTINF:-1 group-title="Mua Sắm",Quê Hương Shopping 
+#EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://quehuongshop.vn/assets/images/logo/qh_logo_color.png"Quê Hương Shopping 
 rtp://@239.12.252.57:5000
 #EXTINF:-1 group-title="Viettel Media",Loading 
 rtp://@239.12.251.79:5000
