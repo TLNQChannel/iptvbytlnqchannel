@@ -178,7 +178,7 @@ rtp://@239.12.251.26:5000
 rtp://@239.12.251.27:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",Ha Giang
 rtp://@239.12.251.28:5000
-#EXTINF:-1 group-title="Địa phương tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-nam_15323304952.jpg",Ha Nam
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-nam_15323304952.jpg",Ha Nam
 rtp://@239.12.251.29:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/666883-hatinh.png",Ha Tinh
 rtp://@239.12.251.30:5000
