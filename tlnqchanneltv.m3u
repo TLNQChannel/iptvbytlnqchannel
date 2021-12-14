@@ -722,5 +722,5 @@ http://203.162.235.41:16916
 #EXTINF:-2, TEST
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.winevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=wss://socketio.fptplay.net:8082/socket.io/?EIO=3&transport=websocket
+#KODIPROP:inputstream.adaptive.license_key=https://socketio.fptplay.net:8082/socket.io/?EIO=3&transport=websocket
 https://live-drm.fptplay.net/drmlive/27082021k1ns_2000.stream/manifest.mpd
