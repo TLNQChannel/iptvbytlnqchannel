@@ -719,3 +719,8 @@ http://203.162.235.41:16908
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="Nhật Bản" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOWシネマ (Wowow Cinema)
 http://203.162.235.41:16916
+#EXTINF:-2, TEST
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.winevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=wss://socketio.fptplay.net:8082/socket.io/?EIO=3&transport=websocket
+https://live-drm.fptplay.net/drmlive/27082021k1ns_2000.stream/manifest.mpd
