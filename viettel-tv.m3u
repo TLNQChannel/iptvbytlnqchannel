@@ -244,3 +244,26 @@ rtp://@239.12.251.100:5000
 rtp://@239.12.251.68:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620210721142624",Yen Bai 
 rtp://@239.12.251.69:5000
+
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068845352.png" group-title="Quốc tế",Box Movies 1 
+rtp://@239.1.0.6:5501
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/524/1565231271187.png" group-title="Quốc tế",Blue Ant Extream 
+rtp://@239.1.0.14:5501
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/524/1565231196300.png" group-title="Quốc tế",Blue Ant Entertainment
+rtp://@239.1.0.31:5501
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/KIX_M.jpg" group-title="Quốc tế",KIX HD 
+rtp://@239.1.0.15:5501
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/F24_M.jpg" group-title="Quốc tế",France24 
+rtp://@239.1.0.17:5501
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/CNA_M.jpg" group-title="Quốc tế",CNA 
+rtp://@239.1.0.18:5501
+#EXTINF:-1 group-title="Quốc tế",Unknown 
+rtp://@239.1.0.24:5501
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068777998.png" group-title="Quốc tế",Dr Fit 
+rtp://@239.1.0.25:5501
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068739769.png" group-title="Quốc tế",Happy Kids 
+rtp://@239.1.0.27:5501
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/HIS_M.jpg" group-title="Quốc tế",History 
+rtp://@239.1.0.28:5501
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/KBS_WORLD_M.jpg" group-title="Quốc tế",KBS World 
+rtp://@239.1.0.46:5501
