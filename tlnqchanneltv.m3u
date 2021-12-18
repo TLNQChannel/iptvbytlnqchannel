@@ -723,6 +723,6 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 http://203.162.235.41:16916
 #EXTINF:-2, TEST
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.winevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pl.fptplay.net/i?p=web-playfpt&av=1.0.1&tna=fplay&tv=1.1.0&eid=82c0c941-12bb-4eb1-aa41-101334d975c6&did=ed6e0925-5624-4d53-93a0-937a630b98e4&tz=UTC%2B07:00&dtm=2021-12-18+13:44:29.829&res=1217x685&aid=fptplay&ast=1639809703852&dmf=Chrome&dml=96.0466411&ost=Windows&ov=10&dvt=pc&uid=40182847&ela=kns&epr=K%2B+Life+HD&tpe=kplus&pn=shaka&pl_st=1639809749812&curs=145981.458171&prf=720p&plf=145861.506&pc=1&eac=pg&drt=widevine&eca=livetv
-https://live-drm.fptplay.net/drmlive/27082021k1ns_2000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=socketio.fptplay.net:8082
+#KODIPROP:inputstream.adaptive.license_key=OMryLlshttps://live-drm.fptplay.net/drmlive/27082021k1pm_4000.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMjM1NDQ2NjcsICJjaGFubmVsX3VybCI6ICIyNzA4MjAyMWsxcG1fNDAwMC5zdHJlYW0iLCAiaXNwIjogImZwdCIsICJ0aW1lc3RhbXAiOiAxNjM5ODMxMDM0LCAiaGFzaF9zZWNyZXQiOiAiNjA5YzhkOGM1OGUwYzE4YWJmMzY5NDM5NzYzYjk4MTQiLCAicm1pcCI6ICI1OC4xODYuOTUuMTk3In0Z6WBtgO5/NvtC4g==
+
