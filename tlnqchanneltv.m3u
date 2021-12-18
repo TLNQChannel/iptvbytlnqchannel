@@ -650,8 +650,10 @@ http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/2552/index.m3u8
 http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/2553/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/logo/ESPN3_US.png", ESPN 3
 http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/2554/index.m3u8
-
-
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://assets-tvk.s3-accelerate.amazonaws.com/2020/04/tvk-channel1.png",TVK1 CAMPUCHIA
+https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://assets-tvk.s3-accelerate.amazonaws.com/2020/04/tvk-channel2-new.jpg",TVK2 CAMPUCHIA
+https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 1 Premium
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f893%2fbein-sports-premium-1.png", Bein Sports 2 Premium
