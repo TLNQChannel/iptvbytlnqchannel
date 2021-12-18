@@ -724,5 +724,6 @@ http://203.162.235.41:16916
 #EXTINF:-2, TEST
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=socketio.fptplay.net:8082
-#KODIPROP:inputstream.adaptive.license_key=OMryLlshttps://live-drm.fptplay.net/drmlive/27082021k1pm_4000.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMjM1NDQ2NjcsICJjaGFubmVsX3VybCI6ICIyNzA4MjAyMWsxcG1fNDAwMC5zdHJlYW0iLCAiaXNwIjogImZwdCIsICJ0aW1lc3RhbXAiOiAxNjM5ODMxMDM0LCAiaGFzaF9zZWNyZXQiOiAiNjA5YzhkOGM1OGUwYzE4YWJmMzY5NDM5NzYzYjk4MTQiLCAicm1pcCI6ICI1OC4xODYuOTUuMTk3In0Z6WBtgO5/NvtC4g==
+#KODIPROP:inputstream.adaptive.license_key=94ALBE0XZHK1xR2X8fvIBg==
+https://live-drm.fptplay.net/drmlive/27082021k1pm_4000.stream/manifest.mpd
 
