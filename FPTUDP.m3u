@@ -184,13 +184,13 @@ udp://@225.1.1.36:30120
 udp://@225.1.2.176:30120
 #EXTINF:-1 tvg-id="lamdong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lam-dong_145880770362.jpg" group-title="Địa phương (HD)",LTV HD _ TH Lâm Đồng (HD 8Mbps)
 udp://@225.1.2.177:30120
-#EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương (HD)",BTV1 HD _ TH Bình Dương (HD 8Mbps)
+#EXTINF:-1 tvg-id="binhduong1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_162952993502.jpg" group-title="Địa phương (HD)",BTV1 HD _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.1.150:30120
-#EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương (SD)",BTV2 _ TH Bình Dương (HD 8Mbps)
+#EXTINF:-1 tvg-id="binhduong2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-2_162952993957.jpg" group-title="Địa phương (SD)",BTV2 _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.1.149:30120
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BTV3_HD_logo_2019.png/revision/latest?cb=20210905034145&path-prefix=vi" group-title="Địa phương (HD)",BTV3 HD _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.2.22:30120
-#EXTINF:-1 tvg-id="binhduong4" group-title="Địa phương (HD)",BTV4 _ TH Bình Dương (HD 8Mbps)
+#EXTINF:-1 tvg-id="binhduong4" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4_162953009383.jpg" group-title="Địa phương (HD)",BTV4 _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.1.30:30120
 #EXTINF:-1 tvg-id="anvienhd" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298782914.png" group-title="Địa phương (HD)",BTV9 An Viên HD (HD 8Mbps)
 udp://@225.1.2.189:30120
