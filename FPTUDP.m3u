@@ -186,6 +186,8 @@ udp://@225.1.2.176:30120
 udp://@225.1.2.177:30120
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương (HD)",BTV1 HD _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.1.150:30120
+#EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương (SD)",BTV2 _ TH Bình Dương (HD 8Mbps)
+udp://@225.1.1.149:30120
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BTV3_HD_logo_2019.png/revision/latest?cb=20210905034145&path-prefix=vi" group-title="Địa phương (HD)",BTV3 HD _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.2.22:30120
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa phương (HD)",BTV4 _ TH Bình Dương (HD 8Mbps)
@@ -259,8 +261,6 @@ udp://@225.1.1.64:30120
 udp://@225.1.2.23:30120
 #EXTINF:-1 tvg-id="binhphuoc2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg" group-title="Địa phương (SD)",BPTV2 _ TH Bình Phước
 udp://@225.1.2.38:30120
-#EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương (SD)",BTV2 _ TH Bình Dương
-udp://@225.1.1.149:30120
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png" group-title="Địa phương (SD)",BTV6 _ TH Bình Dương
 udp://@225.1.1.223:30120
 #EXTINF:-1 tvg-id="ncm" tvg-logo="https://4movi.net/uploads/tv_image/btv10-ncm.png" group-title="Địa phương (SD)",BTV10 NCM
