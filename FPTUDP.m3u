@@ -709,7 +709,7 @@ udp://@225.1.1.90:30120
 udp://@225.1.1.224:30120
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/71/Top_Shopping.png/revision/latest/scale-to-width-down/200?cb=20210104104844&path-prefix=vi" group-title="Mua Sắm",BTV11 TOP Home Shopping
 udp://@225.1.4.84:30120
-#EXTINF:-1 tvg-logo="https://static.skyshoptv.vn/catalog/logo.png" group-title="Mua sắm",ĐN9 - Skyshop 
+#EXTINF:-1 tvg-logo="https://static.skyshoptv.vn/catalog/logo.png" group-title="Mua Sắm",ĐN9 - Skyshop 
 udp://@225.1.1.153:30120
 #-------------------DRM-------------------#
 #EXTINF:-1 tvg-id="kcine" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/pn9pkex0_k-cinefd6b4439e916cc5ba32523312b96dca2_296_168.webp" group-title="K+",K+Cine HD (Bị khóa DRM)
