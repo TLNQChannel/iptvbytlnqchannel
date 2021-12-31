@@ -70,8 +70,6 @@ udp://@225.1.1.193:30120
 udp://@225.1.1.192:30120
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD (HD 8Mbps)
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvcfbnc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg" group-title="HTV/HTVC",FBNC (HD 8Mbps)
-udp://@225.1.1.182:30120
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim (HD 8Mbps)
 udp://@225.1.1.184:30120
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",HTVC Thuần Việt HD (HD 8Mbps)
@@ -99,8 +97,6 @@ udp://@225.1.1.174:30120
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" group-title="HTV/HTVC",HTVC+
 udp://@225.1.1.181:30120
 #-------------------SCTV-------------------#
-#EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-21.jpg" group-title="SCTV",SCTV2
-udp://@225.1.1.234:30120
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-61.jpg" group-title="SCTV",SCTV6 
 udp://@225.1.1.188:30120
 #-------------------Thiết yếu-------------------#
@@ -326,6 +322,8 @@ udp://@225.1.2.233:30120
 udp://@225.1.4.90:30120
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
 udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg" group-title="Quốc Tế (HD)",KBS WORLD (HD 8Mbps)
+udp://@225.1.1.196:30120
 #EXTINF:-1 tvg-id="ngchd" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle-thumbnail.png" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.2.235:30120
 #EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/16/331047-nat_geo_wild.png" group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
@@ -340,7 +338,7 @@ udp://@225.1.1.236:30120
 udp://@225.1.4.38:30120
 #EXTINF:-1 tvg-id="ngchd" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle-thumbnail.png" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.4.31:30120
-#EXTINF:-1 tvg-id="warnerhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Quốc tế (HD)",Warner TV (HD 8Mbps)
+#EXTINF:-1 tvg-id="warnerhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Quốc Tế (HD)",Warner TV (HD 8Mbps)
 udp://@225.1.1.139:30120
 #-------------------Quốc tế SD-------------------#
 #EXTINF:-1 tvg-id="arirang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png" group-title="Quốc Tế (SD)",Arirang
@@ -361,8 +359,6 @@ udp://@225.1.1.227:30120
 udp://@225.1.1.242:30120
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png" group-title="Quốc Tế (SD)",FRANCE 24 (English)
 udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg" group-title="Quốc Tế (SD)",KBS WORLD
-udp://@225.1.1.196:30120
 #EXTINF:-1 tvg-id="tv5monde" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png" group-title="Quốc Tế (SD)",TV5 MONDE ASIE
 udp://@225.1.1.200:30120
 #-------------------FPT Play-------------------#
