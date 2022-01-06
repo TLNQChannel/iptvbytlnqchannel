@@ -76,6 +76,8 @@ udp://@225.1.1.190:30120
 udp://@225.1.1.184:30120
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",HTVC Thuần Việt HD (HD 8Mbps)
 udp://@225.1.1.186:30120
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO HD (HD 8Mbps)
+udp://@225.1.1.165:30120
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD (HD 4Mbps)
 udp://@225.1.4.59:30120
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
@@ -84,8 +86,6 @@ udp://@225.1.1.180:30120
 udp://@225.1.1.178:30120
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
 udp://@225.1.1.177:30120
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO
-udp://@225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc
 udp://@225.1.1.185:30120
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống
