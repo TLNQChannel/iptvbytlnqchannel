@@ -22,6 +22,8 @@ rtp://@239.1.0.64:5501
 rtp://@239.1.0.152:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/E_CHANNEL_M.jpg",VTVCab5 
 rtp://@239.1.0.39:5501
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832391120.png",VTVCab7 
+rtp://@239.1.0.178:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/gsshop-og-image.png",VTVCab11 
 rtp://@239.12.252.14:5000
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://video-thumbs.vcmedia.vn/thumb_w/600/vtv/1hxo0x7kgbczd69kdpuypjtacbwlb2/2016/02/26/gt-vtv-hyundai-1456463162877-4772a.jpg",VTVCab13 
@@ -34,6 +36,8 @@ rtp://@239.12.251.195:5000
 rtp://@239.12.251.204:5000
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/YEAH1_TV_M.jpg",VTVCab17
 rtp://@239.1.0.85:5501
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/VFAMILY_M.jpg",VTVCab20 
+rtp://@239.1.0.41:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cab22_HD800x4501.jpg",VTVCab22 
 rtp://@239.1.0.82:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/157/999/1569981278570.png",VTVCab23 
@@ -52,6 +56,8 @@ rtp://@239.12.252.13:5000
 rtp://@239.12.252.11:5000
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png",VTC10
 rtp://@239.12.252.26:5000
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_162989862338.jpg",VTC11 
+rtp://@239.1.0.106:5501
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png",VTC14 
 rtp://@239.12.252.21:5000
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png",VTC16
@@ -62,12 +68,22 @@ rtp://@239.12.251.223:5000
 rtp://@239.12.252.1:5000
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",HTV1
 rtp://@239.12.252.20:5000
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg",HTV2 
+rtp://@239.1.0.55:5501
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv4_162952400668.jpg",HTV Key 
+rtp://@239.1.0.56:5501
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg",HTV7 HD
 rtp://@239.12.251.205:5000
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_156455550438.jpg",HTV Thể Thao 
+rtp://@239.1.0.175:5501
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg",HTV9 HD
 rtp://@239.12.252.9:5000
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="http://tivihot.net/wp-content/uploads/2019/09/logo-an-ninh-the-gioi-antv-avg.jpg",An ninh the gioi
 rtp://@239.12.252.23:5000
+#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://static.ybox.vn/2015/03/af53eb7439d4b5355f18b00e115adac7.jpg",HanoiCab1 
+rtp://@239.1.0.51:5501
+#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2x8Taeyr8jqbsR6TNEScwbMQIEpjfzvRLaQ&usqp=CAU",HanoiCab2 
+rtp://@239.1.0.116:5501
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg",ANTV
 rtp://@239.12.252.24:5000
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png",Arirang
