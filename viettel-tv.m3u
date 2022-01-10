@@ -18,6 +18,8 @@ rtp://@239.12.251.210:5000
 rtp://@239.12.251.211:5000
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/GIAITRI_TV_HD_M.jpg",VTVCab1 
 rtp://@239.1.0.64:5501
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab2-PhimViet_480x2701.jpg",VTVCab2 
+rtp://@239.1.0.152:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/E_CHANNEL_M.jpg",VTVCab5 
 rtp://@239.1.0.39:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/gsshop-og-image.png",VTVCab11 
@@ -287,3 +289,13 @@ rtp://@239.1.0.27:5501
 rtp://@239.1.0.28:5501
 #EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/KBS_WORLD_M.jpg" group-title="Quốc tế",KBS World 
 rtp://@239.1.0.46:5501
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/MTV_800x4505.jpg" group-title="Quốc tế",MTV 
+rtp://@239.1.0.68:5501
+#EXTINF:-1 tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/3/23/baby-tv-crop-15217904812391954901115.jpg",BabyTV 
+rtp://@239.1.0.69:5501
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585727494584.png" group-title="Quốc tế",Outdoor Channel 
+rtp://@239.1.0.145:5501
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/159/330/1583290746099.png" group-title="Quốc tế",Da Vinci 
+rtp://@239.1.0.147:5501
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XNZ4F-ENqWY/WYFw1O7G15I/AAAAAAAAG78/E_4XqvLyF9oXX7DgON61Jq-JfpvrF5jIgCLcBGAs/w1200-h630-p-k-no-nu/afc-vtvcab.jpg" group-title="Quốc tế",AFN 
+rtp://@239.1.0.148:5501
