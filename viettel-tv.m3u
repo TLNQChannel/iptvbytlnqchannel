@@ -240,6 +240,10 @@ rtp://@239.12.251.99:5000
 rtp://@239.12.251.67:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg",Vinh Long 2 HD 
 rtp://@239.12.251.100:5000
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg",Vĩnh Long 3 HD (DRM) 
+rtp://@239.12.251.101:5000
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png",Vĩnh Long 4 HD (DRM) 
+rtp://@239.12.251.102:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg",Vinh Phuc
 rtp://@239.12.251.68:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620210721142624",Yen Bai 
