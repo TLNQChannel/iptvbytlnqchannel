@@ -22,7 +22,7 @@ rtp://@239.1.0.64:5501
 rtp://@239.1.0.152:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/E_CHANNEL_M.jpg",VTVCab5 
 rtp://@239.1.0.39:5501
-#EXTINF:-1 group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832391120.png",VTVCab7 
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Kenh10_480x2701.jpg",VTVCab10
 rtp://@239.1.0.178:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/gsshop-og-image.png",VTVCab11 
 rtp://@239.12.252.14:5000
@@ -64,7 +64,7 @@ rtp://@239.12.252.21:5000
 rtp://@239.12.252.22:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg",Ha Noi 1 HD
 rtp://@239.12.251.223:5000
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg",Ha Noi 2
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg",Ha Noi 2 HD
 rtp://@239.12.252.1:5000
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",HTV1
 rtp://@239.12.252.20:5000
@@ -80,6 +80,8 @@ rtp://@239.1.0.175:5501
 rtp://@239.12.252.9:5000
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="http://tivihot.net/wp-content/uploads/2019/09/logo-an-ninh-the-gioi-antv-avg.jpg",An ninh the gioi
 rtp://@239.12.252.23:5000
+#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_162952438542.jpg",Vnews
+rtp://@239.1.0.121:5501
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://static.ybox.vn/2015/03/af53eb7439d4b5355f18b00e115adac7.jpg",HanoiCab1 
 rtp://@239.1.0.51:5501
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2x8Taeyr8jqbsR6TNEScwbMQIEpjfzvRLaQ&usqp=CAU",HanoiCab2 
@@ -309,6 +311,8 @@ rtp://@239.1.0.46:5501
 rtp://@239.1.0.68:5501
 #EXTINF:-1 tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/3/23/baby-tv-crop-15217904812391954901115.jpg",BabyTV 
 rtp://@239.1.0.69:5501
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/MusicBox_480x2701j1.jpg",Music Box 
+rtp://@239.1.0.87:5501
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585727494584.png" group-title="Quốc tế",Outdoor Channel 
 rtp://@239.1.0.145:5501
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/159/330/1583290746099.png" group-title="Quốc tế",Da Vinci 
