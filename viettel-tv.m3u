@@ -16,6 +16,12 @@ rtp://@239.12.251.82:5000
 rtp://@239.12.251.210:5000
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg",VTV8 HD 
 rtp://@239.12.251.211:5000
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/GIAITRI_TV_HD_M.jpg",VTVCab1 
+rtp://@239.1.0.64:5501
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/E_CHANNEL_M.jpg",VTVCab5 
+rtp://@239.1.0.39:5501
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/BIBI_M2.jpg",VTVCab8 
+rtp://@239.1.0.85:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/gsshop-og-image.png",VTVCab11 
 rtp://@239.12.252.14:5000
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://video-thumbs.vcmedia.vn/thumb_w/600/vtv/1hxo0x7kgbczd69kdpuypjtacbwlb2/2016/02/26/gt-vtv-hyundai-1456463162877-4772a.jpg",VTVCab13 
@@ -26,8 +32,12 @@ rtp://@239.12.251.229:5000
 rtp://@239.12.251.195:5000
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onfootball2.jpg",VTVCab16 
 rtp://@239.12.251.204:5000
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cab22_HD800x4501.jpg",VTVCab22 
+rtp://@239.1.0.82:5501
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_157355881109.jpg",VTC1 HD 
 rtp://@239.12.252.6:5000
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png",VTC2 (IPTV ZTE)
+rtp://@239.1.0.33:5501
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",VTC3 HD
 rtp://@239.12.251.78:5000
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_162989800101.jpg",VTC4
