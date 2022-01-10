@@ -214,6 +214,8 @@ rtp://@239.12.251.51:5000
 rtp://@239.12.251.52:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-tri_150339367566.png",Quang Tri
 rtp://@239.12.251.53:5000
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-tri_150339367566.png",Quang Tri HD 
+rtp://@239.12.251.70:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_153233048284.jpg",Soc Trang
 rtp://@239.12.251.54:5000
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_son-la_145881052785.jpg",Son La
