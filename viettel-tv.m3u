@@ -35,7 +35,7 @@ rtp://@239.1.0.85:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cab22_HD800x4501.jpg",VTVCab22 
 rtp://@239.1.0.82:5501
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/157/999/1569981278570.png",VTVCab23 
-rtp://@239.1.0.11:5501
+rtp://@239.1.0.10:5501
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_157355881109.jpg",VTC1 HD 
 rtp://@239.12.252.6:5000
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png",VTC2 (IPTV ZTE)
