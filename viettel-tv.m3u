@@ -92,7 +92,7 @@ rtp://@239.12.252.24:5000
 rtp://@239.12.252.18:5000
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg",DWHD
 rtp://@239.12.252.16:5000
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg",Nhan Dan
+#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg",Nhan Dan
 rtp://@239.12.251.208:5000
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png",NHK World
 rtp://@239.12.252.19:5000
@@ -120,9 +120,9 @@ rtp://@239.1.0.63:5501
 rtp://@239.1.0.76:5501
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png",TV5MONDE Asie
 rtp://@239.12.252.17:5000
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_162952438542.jpg",VNews
+#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_162952438542.jpg",VNews
 rtp://@239.12.252.8:5000
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg",VOV
+#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg",VOV
 rtp://@239.12.251.214:5000
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv9_159662306193.jpg",BTV9 - An Vien 
 rtp://@239.12.251.61:5000
