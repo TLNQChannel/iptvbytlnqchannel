@@ -124,6 +124,8 @@ udp://@225.1.1.245:30120
 #-------------------Địa phương HD-------------------#
 #EXTINF:-1 tvg-id="laocai" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-thlc.png" group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
+#EXTINF:-1 tvg-id="laichau" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lai-chau_159849986283.png" group-title="Địa phương (HD)",LTV _ TH Lai Châu (HD 8Mbps)
+udp://@225.1.2.36:30120
 #EXTINF:-1 tvg-id="dienbien" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_156455538188.jpg" group-title="Địa phương (HD)",ĐTV HD _ TH Điện Biên (HD 8Mbps)
 udp://@225.1.1.74:30120
 #EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tuyen-quang_145673727398.jpg" group-title="Địa phương (HD)",TTV HD _ TH Tuyên Quang (HD 8Mbps)
@@ -225,8 +227,6 @@ udp://@225.1.1.132:30120
 #EXTINF:-1 tvg-id="yenbai" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa phương (HD)",YTV _ TH Yên Bái (HD 8Mbps)
 udp://@225.1.1.39:30120
 #-------------------Địa phương SD-------------------#
-#EXTINF:-1 tvg-id="laichau" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lai-chau_159849986283.png" group-title="Địa phương (SD)",LTV _ TH Lai Châu
-udp://@225.1.2.36:30120
 #EXTINF:-1 tvg-id="sonla" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_son-la_145881052785.jpg" group-title="Địa phương (SD)",STV _ TH Sơn La
 udp://@225.1.1.98:30120
 #EXTINF:-1 tvg-id="hagiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png" group-title="Địa phương (SD)",HGTV _ TH Hà Giang
