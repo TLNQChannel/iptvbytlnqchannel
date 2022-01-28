@@ -212,6 +212,8 @@ udp://@225.1.1.154:30120
 udp://@225.1.1.235:30120
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png" group-title="Địa phương (HD)",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
 udp://@225.1.2.25:30120
+#EXTINF:-1 tvg-id="vinhphuc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg" group-title="Địa phương (HD)",VP _ TH Vĩnh Phúc (HD 8Mbps)
+udp://@225.1.2.99:30120
 #EXTINF:-1 tvg-id="travinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_156455583815.jpg" group-title="Địa phương (HD)",THTV HD _ TH Trà Vinh (HD 8Mbps)
 udp://@225.1.2.172:30120
 #EXTINF:-1 tvg-id="haugiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hau-giang_145673319528.jpg" group-title="Địa phương (HD)",HGTV _ TH Hậu Giang (HD 8Mbps)
@@ -243,8 +245,6 @@ udp://@225.1.1.118:30120
 udp://@225.1.1.120:30120
 #EXTINF:-1 tvg-id="thaibinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg" group-title="Địa phương (SD)",TBTV _ TH Thái Bình
 udp://@225.1.1.99:30120
-#EXTINF:-1 tvg-id="vinhphuc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg" group-title="Địa phương (SD)",VP _ TH Vĩnh Phúc
-udp://@225.1.2.99:30120
 #EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg" group-title="Địa phương (SD)",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
 #EXTINF:-1 tvg-id="quangbinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg" group-title="Địa phương (SD)",QBTV _ TH Quảng Bình
