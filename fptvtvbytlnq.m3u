@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0, VTV1 
+udp://@225.1.2.249:30120
+#EXTINF:0, VTV2 
+udp://@225.1.2.13:30120
+#EXTINF:0, VTV3 
+udp://@225.1.2.247:30120
+#EXTINF:0, VTV4 
+udp://@225.1.2.20:30120
+#EXTINF:0, VTV5 
+udp://@225.1.1.131:30120
+#EXTINF:0, VTV6 
+udp://@225.1.2.245:30120
+#EXTINF:0, VTV7 
+udp://@225.1.2.96:30120
+#EXTINF:0, VTV8 
+udp://@225.1.2.166:30120
+#EXTINF:0, VTV9 
+udp://@225.1.1.128:30120
+#EXTINF:0, VTV5 Tây Nam Bộ 
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:0, VTV5 Tây Nguyên 
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
