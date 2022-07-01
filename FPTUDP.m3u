@@ -259,8 +259,6 @@ udp://@225.1.1.64:30120
 udp://@225.1.2.23:30120
 #EXTINF:-1 tvg-id="binhphuoc2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg" group-title="Địa phương (SD)",BPTV2 _ TH Bình Phước
 udp://@225.1.2.38:30120
-#EXTINF:-1 tvg-id="binhphuoc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnE0WyKHL74CDmSwc_vl1yaMHGRTOawBR-g&usqp=CAU" group-title="Địa phương (SD)",BPTV3 _ ANT
-udp://@225.1.2.158:30120
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png" group-title="Địa phương (SD)",BTV6 _ TH Bình Dương
 udp://@225.1.1.223:30120
 #EXTINF:-1 tvg-id="longan" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_long-an_145880901975.jpg" group-title="Địa phương (SD)",LA34 _ TH Long An
