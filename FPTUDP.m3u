@@ -324,8 +324,6 @@ udp://@225.1.4.90:30120
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg" group-title="Quốc Tế (HD)",KBS WORLD (HD 8Mbps)
 udp://@225.1.1.196:30120
-#EXTINF:-1 tvg-id="musicboxhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/MusicBox_480x2701j1.jpg" group-title="Quốc Tế (HD)",Music Box (HD 8Mbps)
-udp://@225.1.2.187:30120
 #EXTINF:-1 tvg-id="ngchd" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle-thumbnail.png" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.2.235:30120
 #EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/16/331047-nat_geo_wild.png" group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
