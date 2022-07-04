@@ -265,6 +265,8 @@ udp://@225.1.1.223:30120
 udp://@225.1.1.162:30120
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg" group-title="Địa phương (SD)",THĐT1 _ TH Đồng Tháp
 udp://@225.1.1.163:30120
+#EXTINF:-1 tvg-id"dongthap2" tvg-logo="https://img.hplus.com.vn/460x260/poster/2022/04/27/323478-Logo-Dong-thap-2.png" group-title="Địa phương (SD)",THĐT2 _ Miền Tây
+udp://@225.1.1.210:30120
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png" group-title="Địa phương (SD)",ATV _ TH An Giang
 udp://@225.1.2.173:30120
 #EXTINF:-1 tvg-id="bentre" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg" group-title="Địa phương (SD)",THBT _ TH Bến Tre
