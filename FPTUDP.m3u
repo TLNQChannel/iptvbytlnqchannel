@@ -10,7 +10,7 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD (HD 8Mbps)
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",VTV6 HD (HD 8Mbps)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/640/2022/10/6/vtv-can-tho-16650500344341813094040.png",VTV Cần Thơ HD (HD 8Mbps)
 udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD (HD 8Mbps)
 udp://@225.1.2.96:30120
@@ -269,7 +269,7 @@ udp://@225.1.1.163:30120
 udp://@225.1.1.210:30120
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png" group-title="Địa phương (SD)",ATV _ TH An Giang
 udp://@225.1.2.173:30120
-#EXTINF:-1 tvg-id="bentre" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg" group-title="Địa phương (SD)",THBT _ TH Bến Tre
+#EXTINF:-1 tvg-id="bentre" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg" group-title="Địa phương (HD)",THBT _ TH Bến Tre (HD 8Mbps)
 udp://@225.1.1.156:30120
 #EXTINF:-1 tvg-id="soctrang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_153233048284.jpg" group-title="Địa phương (SD)",STV1 _ TH Sóc Trăng
 udp://@225.1.1.159:30120
