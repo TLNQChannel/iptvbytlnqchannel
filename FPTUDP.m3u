@@ -385,8 +385,6 @@ udp://@225.1.2.167:30120
 udp://@225.1.1.122:30120
 #EXTINF:-1 tvg-logo="https://vtvhyundai.vn/resource/img/logo_og.png" group-title="Mua Sắm",VTVCab13 VTV Hyundai Homeshopping
 udp://@225.1.4.79:30120
-#EXTINF:-1 tvg-logo="https://vtvhyundai.vn/resource/img/logo_og.png" group-title="Mua Sắm",SCTV10 VTV Hyundai Homeshopping
-udp://@225.1.2.37:30120
 #EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" group-title="Mua Sắm",HTVC VGS SHOP
 udp://@225.1.1.172:30120
 #EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" group-title="Mua Sắm",HTVC VGS SHOP
@@ -397,12 +395,3 @@ udp://@225.1.1.90:30120
 udp://@225.1.1.224:30120
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/71/Top_Shopping.png/revision/latest/scale-to-width-down/200?cb=20210104104844&path-prefix=vi" group-title="Mua Sắm",BTV11 TOP Home Shopping
 udp://@225.1.4.84:30120
-#-------------------DRM-------------------#
-#EXTINF:-1 tvg-id="kcine" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/pn9pkex0_k-cinefd6b4439e916cc5ba32523312b96dca2_296_168.webp" group-title="K+",K+Cine HD (Bị khóa DRM)
-udp://@225.1.1.5:30120
-#EXTINF:-1 tvg-id="klife" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/8cu1dyf9_k-life_296_168.webp" group-title="K+",K+Life HD (Bị khóa DRM)
-udp://@225.1.1.6:30120
-#EXTINF:-1 tvg-id="ksport1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/c06mnsf1_sport1_296_168.webp" group-title="K+",K+Sport 1 HD (Bị khóa DRM)
-udp://@225.1.1.73:30120
-#EXTINF:-1 tvg-id="ksport2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp" group-title="K+",K+Sport 2 HD (Bị khóa DRM)
-udp://@225.1.1.77:30120
