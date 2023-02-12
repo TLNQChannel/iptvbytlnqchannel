@@ -1,14 +1,14 @@
 #EXTM3U 
 
-#EXTINF:-1 ,VTV1 HD (HD 8Mbps)
+#EXTINF:-1 ,VTV1 HD 
 http://192.168.1.46:9999/udp/225.1.2.249:30120
-#EXTINF:-1 ,VTV2 HD (HD 8Mbps)
+#EXTINF:-1 ,VTV2 HD 
 http://192.168.1.46:9999/udp/225.1.2.13:30120
-#EXTINF:-1 ,VTV3 HD (HD 8Mbps)
+#EXTINF:-1 ,VTV3 HD 
 http://192.168.1.46:9999/udp/225.1.2.247:30120
-#EXTINF:-1 ,VTV4 HD (HD 8Mbps)
+#EXTINF:-1 ,VTV4 HD 
 http://192.168.1.46:9999/udp/225.1.2.20:30120
-#EXTINF:-1 ,VTV5 HD (HD 8Mbps)
+#EXTINF:-1 ,VTV5 HD 
 http://192.168.1.46:9999/udp/225.1.1.131:30120
 #EXTINF:-1 ,VTV5 Tây Nam Bộ HD 
 http://192.168.1.46:9999/udp/225.1.1.108:30120
@@ -107,10 +107,10 @@ udp://@225.1.1.126:30120
 udp://@225.1.2.181:30120
 #EXTINF:-1 tvg-id="bacninh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_156455524327.jpg" group-title="Địa phương (HD)",BTV _ TH Bắc Ninh (HD 8Mbps)
 udp://@225.1.1.40:30120
-#EXTINF:-1 tvg-id="hanoi1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg" group-title="Địa phương (HD)",H1 HD _ TH Hà Nội (HD 8Mbps)
-udp://@225.1.2.186:30120
-#EXTINF:-1 tvg-id="hanoi2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg" group-title="Địa phương (HD)",H2 HD _ TH Hà Nội (HD 8Mbps)
-udp://@225.1.1.125:30120
+#EXTINF:-1 ,H1 HD 
+http://192.168.1.46:9999/udp/225.1.2.186:30120
+#EXTINF:-1 ,H2 HD 
+http://192.168.1.46:9999/udp/225.1.1.125:30120
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg" group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
 udp://@225.1.1.44:30120
 #EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://fptninhbinh.vn/wp-content/uploads/2018/02/%C4%90%C3%A0i-Ph%C3%A1t-thanh-v%C3%A0-Truy%E1%BB%81n-h%C3%ACnh-Ninh-B%C3%ACnh.jpg" group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
@@ -163,9 +163,9 @@ udp://@225.1.1.130:30120
 udp://@225.1.2.175:30120
 #EXTINF:-1 tvg-id="tiengiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tien-giang_145734128144.jpg" group-title="Địa phương (HD)",THTG HD _ TH Tiền Giang (HD 8Mbps)
 udp://@225.1.2.170:30120
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg" group-title="Địa phương (HD)",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 ,THVL1 HD _ TH Vĩnh Long 
 http://192.168.1.46:9999/udp/225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg" group-title="Địa phương (HD)",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 ,THVL2 HD _ TH Vĩnh Long (
 http://192.168.1.46:9999/udp/225.1.1.154:30120
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg" group-title="Địa phương (HD)",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
 udp://@225.1.1.235:30120
