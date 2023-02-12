@@ -163,9 +163,9 @@ udp://@225.1.1.130:30120
 udp://@225.1.2.175:30120
 #EXTINF:-1 tvg-id="tiengiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tien-giang_145734128144.jpg" group-title="Địa phương (HD)",THTG HD _ TH Tiền Giang (HD 8Mbps)
 udp://@225.1.2.170:30120
-#EXTINF:-1 ,THVL1 HD _ TH Vĩnh Long 
+#EXTINF:-1 ,THVL1 HD
 http://192.168.1.46:9999/udp/225.1.1.155:30120
-#EXTINF:-1 ,THVL2 HD _ TH Vĩnh Long (
+#EXTINF:-1 ,THVL2 HD 
 http://192.168.1.46:9999/udp/225.1.1.154:30120
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg" group-title="Địa phương (HD)",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
 udp://@225.1.1.235:30120
