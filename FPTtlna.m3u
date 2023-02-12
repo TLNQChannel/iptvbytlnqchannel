@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
-#-------------------VTV-------------------#
+#EXTM3U 
+
 #EXTINF:-1 ,VTV1 HD (HD 8Mbps)
 http://192.168.1.46:9999/udp/225.1.2.249:30120
 #EXTINF:-1 ,VTV2 HD (HD 8Mbps)
@@ -54,7 +54,7 @@ http://192.168.1.46:9999/udp/225.1.2.193:30120
 http://192.168.1.46:9999/udp/225.1.2.51:30120
 #EXTINF:-1 ,VOV TV
 http://192.168.1.46:9999/udp/225.1.2.171:30120
-#-------------------HTV/HTVC-------------------#
+
 #EXTINF:-1 ,HTV2 Vie Channel 
 http://192.168.1.46:9999/udp/225.1.1.193:30120
 #EXTINF:-1 ,HTV7 HD 
@@ -63,10 +63,10 @@ http://192.168.1.46:9999/udp/225.1.1.192:30120
 http://192.168.1.46:9999/udp/225.1.1.190:30120
 #EXTINF:-1 ,HTV THỂ THAO HD 
 http://192.168.1.46:9999/udp/225.1.1.165:30120
-#-------------------SCTV-------------------#
+
 #EXTINF:-1 ,SCTV6 
 http://192.168.1.46:9999/udp/225.1.1.188:30120
-#-------------------Thiết yếu-------------------#
+
 #EXTINF:-1 ,ANTV HD 
 http://192.168.1.46:9999/udp/225.1.2.169:30120
 #EXTINF:-1 ,Nhân Dân TV 
@@ -77,10 +77,10 @@ http://192.168.1.46:9999/udp/225.1.2.148:30120
 http://192.168.1.46:9999/udp/225.1.2.217:30120
 #EXTINF:-1 ,VNEWS 
 http://192.168.1.46:9999/udp/225.1.1.43:30120
-#-------------------Other-------------------#
+
 #EXTINF:-1 ,HanoiCab2 YouTV
 http://192.168.1.46:9999/udp/225.1.1.207:30120
-#-------------------Địa phương HD-------------------#
+
 #EXTINF:-1 tvg-id="laocai" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-thlc.png" group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
 #EXTINF:-1 tvg-id="laichau" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lai-chau_159849986283.png" group-title="Địa phương (HD)",LTV _ TH Lai Châu (HD 8Mbps)
