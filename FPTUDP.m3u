@@ -156,7 +156,7 @@ udp://@225.1.2.186:30120
 udp://@225.1.1.125:30120
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg" group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
 udp://@225.1.1.44:30120
-#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi" group-title="Địa phương (HD)". THP+ HD - TH TP. Hải Phòng
+#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi" group-title="Địa phương (HD)", THP+ HD - TH TP. Hải Phòng
 udp://@225.1.1.113:30120
 #EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://fptninhbinh.vn/wp-content/uploads/2018/02/%C4%90%C3%A0i-Ph%C3%A1t-thanh-v%C3%A0-Truy%E1%BB%81n-h%C3%ACnh-Ninh-B%C3%ACnh.jpg" group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
 udp://@225.1.2.185:30120
