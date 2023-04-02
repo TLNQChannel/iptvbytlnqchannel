@@ -9,7 +9,7 @@ udp://@225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD (HD 8Mbps)
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD (HD 8Mbps)
-udp://@225.1.1.131:30120
+udp://@225.1.2.236:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ HD 
 udp://@225.1.1.108:30120
 #EXTINF:-1 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/640/2022/10/6/vtv-can-tho-16650500344341813094040.png",VTV Cần Thơ HD (HD 8Mbps)
@@ -20,14 +20,6 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD (HD 8Mbps)
 udp://@225.1.1.128:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 4Mbps)
-udp://@225.1.4.2:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 4Mbps)
-udp://@225.1.4.3:30120
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD (HD 4Mbps)
-udp://@225.1.4.4:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",VTV6 HD (HD 4Mbps)
-udp://@225.1.4.6:30120
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD (HD 8Mbps)
 udp://@225.1.2.254:30120
@@ -296,10 +288,6 @@ udp://@225.1.2.24:30120
 udp://@225.1.1.138:30120
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="Quốc Tế (HD)",BOOMERANG (HD 4Mbps)
 udp://@225.1.4.16:30120
-#EXTINF:-1 tvg-id="blueantent" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-entertainment_154850587839.jpg" group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 8Mbps)
-udp://@225.1.1.203:30120
-#EXTINF:-1 tvg-id="blueantext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Extreme.png" group-title="Quốc Tế (HD)",ROCK EXTREME (HD 8Mbps)
-udp://@225.1.1.204:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 8Mbps)
 udp://@225.1.2.231:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
@@ -385,10 +373,6 @@ udp://@225.1.2.244:30120
 #-------------------Mua sắm-------------------#
 #EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" group-title="Mua Sắm",VTVCab11 GS SHOP
 udp://@225.1.2.167:30120
-#EXTINF:-1 tvg-logo="https://vtvhyundai.vn/resource/img/logo_og.png" group-title="Mua Sắm",VTVCab13 VTV Hyundai Homeshopping
-udp://@225.1.1.122:30120
-#EXTINF:-1 tvg-logo="https://vtvhyundai.vn/resource/img/logo_og.png" group-title="Mua Sắm",VTVCab13 VTV Hyundai Homeshopping
-udp://@225.1.4.79:30120
 #EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" group-title="Mua Sắm",HTVC VGS SHOP
 udp://@225.1.1.172:30120
 #EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" group-title="Mua Sắm",HTVC VGS SHOP
