@@ -29,6 +29,8 @@ http://live-ali2.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 http://live-ali2.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:0 group-title="TV360", Cửu Long
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", SCTV6 (Quê 360)
+http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 #EXTINF:0 group-title="TV360", HTV Thể Thao (TV360)
 http://live-ali4.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 #EXTINF:0 group-title="TV360", HTV2 (TV360)
@@ -53,6 +55,8 @@ http://live-ali4.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 http://live-ali4.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 #EXTINF:0 group-title="TV360", ANTV (TV360)
 http://live-zlr1.tv360.vn/manifest/ANTV_SPR/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", QPVN HD (TV360)
+http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 #EXTINF:0 group-title="TV360", NhanDanTV (TV360)
 http://live-zlr1.tv360.vn/manifest/Nhan_Dan_SPR/playlist_360p.m3u8
 #EXTINF:0 group-title="TV360", VNews (TV360)
@@ -61,6 +65,8 @@ http://live-ali2.tv360.vn/manifest/Vnews/playlist_360p.m3u8
 http://live-zlr1.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:0 group-title="TV360", Vĩnh Long 2 HD (TV360)
 http://live-zlr1.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", Vĩnh Long 3 HD (TV360)
+http://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 #EXTINF:0 group-title="TV360", Vĩnh Long 4 HD (TV360)
 http://live-zlr1.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 #EXTINF:0 group-title="TV360", Hà Nội 1 (TV360)
