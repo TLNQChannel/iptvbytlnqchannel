@@ -65,3 +65,5 @@ http://live-zlr1.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 http://live-zlr1.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 #EXTINF:0 group-title="TV360", Hà Nội 1 (TV360)
 http://live-ali2.tv360.vn/manifest/Ha_Noi_1_SPR/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", VTVCab16 - ON Football (TV360)
+http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
