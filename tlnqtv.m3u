@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:0 group-title="CakhiaTV", CaKhiaTV1
+https://obevcimanyd179314182.thapcam.link/live/bunFHD/chunklist.m3u8
+#EXTINF:0 group-title="CakhiaTV", CakhiaTV2
+
+#EXTINF:0 group-title="CakhiaTV", CakhiaTV3
+
+#EXTINF:0 group-title="CakhiaTV", CakhiaTV4
+
+#EXTINF:0 group-title="CakhiaTV", CakhiaTV5
+
+#EXTINF:0 group-title="TV360", VTV1HD (TV360)
+http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", VTV2HD (TV360)
+http://live-ali2.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", VTV3HD (TV360)
+http://live-ali4.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+#EXTINF:0 group-title="TV360", VTV5HD (TV360)
+http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+#EXTINF:0 group-title="TV360", VTV6 Cần Thơ (TV360)
+http://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", Sự kiện 1
+http://live-zlr1.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
+#EXTINF:0 group-title="TV360", Sự kiện 2
+http://live-ali4.tv360.vn/manifest/u23-dubaicup2/playlist_U23-dubaicup2-360p.m3u8
+#EXTINF:0 group-title="TV360", Sự kiện 3
+http://live-ali2.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", Sự kiện 4
+http://live-ali2.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", Cửu Long
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", HTV Thể Thao (TV360)
+http://live-ali4.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
+#EXTINF:0 group-title="TV360", HTV2 (TV360)
+http://live-ali4.tv360.vn/manifest/HTV2/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", HTV3 (TV360)
+http://live-ali2.tv360.vn/manifest/HTV3/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", HTVC Thuần Việt (TV360)
+http://live-zlr1.tv360.vn/manifest/HTVC_Thuan_Viet/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", HTVC Gia Đình (TV360)
+http://live-ali2.tv360.vn/manifest/HTVC_Gia_Dinh/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", HTVC Phụ Nữ (TV360)
+http://live-zlr1.tv360.vn/manifest/HTVC_Phu_Nu/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", HTVC Du Lịch (TV360)
+http://live-zlr1.tv360.vn/manifest/HTVC_Du_Lich/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", HTVC Ca Nhạc (TV360)
+http://live-zlr1.tv360.vn/manifest/HTVC_Ca_Nhac/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", HTVC Plus Tổng Hợp (TV360)
+http://live-zlr1.tv360.vn/manifest/HTVC_Channel_B_SPR/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", VTC1HD (TV360)
+http://live-ali4.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360', Quốc Hội HD (TV360)
+http://live-ali4.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", ANTV (TV360)
+http://live-zlr1.tv360.vn/manifest/ANTV_SPR/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", NhanDanTV (TV360)
+http://live-zlr1.tv360.vn/manifest/Nhan_Dan_SPR/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", VNews (TV360)
+http://live-ali2.tv360.vn/manifest/Vnews/playlist_360p.m3u8
+#EXTINF:0 group-title="TV360", Vĩnh Long 1 HD (TV360)
+http://live-zlr1.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", Vĩnh Long 2 HD (TV360)
+http://live-zlr1.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", Vĩnh Long 4 HD (TV360)
+http://live-zlr1.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
+#EXTINF:0 group-title="TV360", Hà Nội 1 (TV360)
+http://live-ali2.tv360.vn/manifest/Ha_Noi_1_SPR/playlist_360p.m3u8
