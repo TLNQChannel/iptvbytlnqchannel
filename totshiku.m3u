@@ -21,7 +21,7 @@ https://vips-livecdn.fptplay.net/fnxsport/thethao14_4000.stream/chunklist.m3u8
 #EXTINF:0 group-title="FPT Sports", FPT4
 #EXTVLCOPT:http-user-agent="TotshikuTV"
 https://vips-livecdn.fptplay.net/fnxsport/thethao18_4000.stream/chunklist.m3u8
-#EXTINF:- group-title="FPT Sports", FPT5
+#EXTINF:0 group-title="FPT Sports", FPT5
 #EXTVLCOPT:http-user-agent="TotshikuTV"
 ttps://vips-livecdn.fptplay.net/epzsport/thethao02_4000.stream/chunklist.m3u8
 #EXTINF:0 group-title="TV360", VTV1HD (TV360)
