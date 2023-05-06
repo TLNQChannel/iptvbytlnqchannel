@@ -10,7 +10,9 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD (HD 8Mbps)
 udp://@225.1.2.236:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ HD 
+#EXTINF:-1 tvg-id="vtv5tnb" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ HD 
+udp://@225.1.1.108:30120
+#EXTINF:-1 tvg-id="vtv5tn" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/130px-Vtv5taynguyen_logo.svg.png",VTV5 Tây Nguyên
 udp://@225.1.1.108:30120
 #EXTINF:-1 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/640/2022/10/6/vtv-can-tho-16650500344341813094040.png",VTV Cần Thơ HD (HD 8Mbps)
 udp://@225.1.2.245:30120
