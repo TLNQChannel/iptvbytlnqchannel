@@ -10,6 +10,8 @@ rtp://@239.12.251.206:5000
 rtp://@239.12.251.227:5000
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg",VTV5 HD
 rtp://@239.12.251.209:5000
+#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/130px-Vtv5tnb_logo.svg.png", VTV5 Tây Nam Bộ HD
+rtp://@239.12.251.106:5000
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg",VTV6 HD
 rtp://@239.12.251.82:5000
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png",VTV7 HD
@@ -28,8 +30,6 @@ rtp://@239.1.0.178:5501
 rtp://@239.12.252.14:5000
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://video-thumbs.vcmedia.vn/thumb_w/600/vtv/1hxo0x7kgbczd69kdpuypjtacbwlb2/2016/02/26/gt-vtv-hyundai-1456463162877-4772a.jpg",VTVCab13 
 rtp://@239.12.252.12:5000
-#EXTINF:-1 group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/158/647/1576469052777.png",VTVCab14 
-rtp://@239.12.251.229:5000
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab15_800x4501.jpg",VTVCab15 
 rtp://@239.12.251.195:5000
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onfootball2.jpg",VTVCab16 
