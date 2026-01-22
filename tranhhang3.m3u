@@ -7,7 +7,10 @@ http://vnptnamkhanhhoa.duckdns.org:3468/udp/232.84.1.119:10266
 http://vnptnamkhanhhoa.duckdns.org:3468/udp/232.84.3.88:11524
 #EXTINF:0, HTV1
 http://vnptnamkhanhhoa.duckdns.org:3468/udp/232.84.3.57:11710
+#EXTINF:0, HTV3
+http://vnptnamkhanhhoa.duckdns.org:3468/udp/232.84.3.56:11716
 #EXTINF:0, HTV4
 http://vnptnamkhanhhoa.duckdns.org:3468/udp/232.84.3.55:11722
 #EXTINF:0, HTV9
 http://vnptnamkhanhhoa.duckdns.org:3468/udp/232.84.1.224:9318
+
